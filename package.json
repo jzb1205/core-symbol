@@ -1,6 +1,6 @@
 {
   "name": "core-symbol",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "package/index.js",
   "scripts": {
@@ -22,5 +22,9 @@
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.7"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jzb1205/core-symbol.git"
   }
 }
