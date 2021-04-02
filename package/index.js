@@ -91,18 +91,11 @@ class PointSymbol {
   }
   draw(context, geometry,symbolParams,symbolStyle) {
 
-    if (!geometry) {
-      //   console.log("geometry", geometry);
+    if (!geometry || !symbolParams) {
+      return;
     }
-    if(!symbolParams){
-        return;
-    }
-
-    var symbol = new PointSymbol(symbolParams);
     
-    if(symbol){
-        this.serialization(symbolParams);
-    }
+    this.serialization(symbolParams);
 
     var color = -1,
       angle = 0,
