@@ -1,5 +1,4 @@
 const path = require('path')
-const HtmlWebpackPlugin = require('html-webpack-plugin')
 const CleanWebpackPlugin = require('clean-webpack-plugin')
 
 module.exports = {
@@ -14,17 +13,8 @@ module.exports = {
         globalObject: "this"
     },
     devtool: 'inline-source-map',
-    // devServer: {
-        // contentBase: './lib',
-        // open: true,
-        // port: 9000
-    // },
     plugins: [
-        new CleanWebpackPlugin(['lib']),
-        // new HtmlWebpackPlugin({
-        //     title: '点图元',
-        //     template: './index.html'
-        // })
+        new CleanWebpackPlugin(['lib'])
     ],
     module: {
         rules: [{
@@ -32,5 +22,8 @@ module.exports = {
             exclude: /(node_modules)/,
             loader: 'babel-loader'
         }]
+    },
+    performance: {
+        hints: false
     }
 }

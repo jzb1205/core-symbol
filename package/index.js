@@ -13,11 +13,19 @@ import SimplePointCell from "./point/SimplePointCell";
 import SurfacePointCell from "./point/SurfacePointCell";
 import Transform from "./utils/Transform";
 import PointCellType from "./supportClasses/PointCellType";
+import elesymbol from './config/elesymbol.json'
 
 class PointSymbol {
+  // cellsBound = {
+  //   left:0,
+  //   right:0,
+  //   bottom:0,
+  //   top:0
+  // }
+  // pointCells = []
   constructor(dv) {
-    this.cellsCount = dv._cellsCount;
-    this.cellsBound = dv._cellsBound;
+    this.cellsCount = dv ? dv._cellsCount : 0;
+    this.cellsBound =  dv ? dv._cellsBound : {}
     this.pointCells = [];
   }
   serialization(dv) {
@@ -89,13 +97,12 @@ class PointSymbol {
 
     return result;
   }
-  draw(context, geometry,symbolParams,symbolStyle) {
+  draw(context, geometry, symbolStyle) {
 
-    if (!geometry || !symbolParams) {
+    if (!symbolStyle || symbolStyle && !symbolStyle.symbolid) {
       return;
     }
-    
-    this.serialization(symbolParams);
+    this.serialization(elesymbol[symbolStyle.symbolid]);
 
     var color = -1,
       angle = 0,
@@ -110,7 +117,7 @@ class PointSymbol {
       opacity = symbolStyle.opacity;
     }
     transform = new Transform(geometry.x, geometry.y, scale, angle);
-    this.pointCells.forEach(function(pointCell, index) {
+    this.pointCells.forEach(function (pointCell, index) {
       pointCell.preparePen(transform, 1, color);
       if (pointCell instanceof SurfacePointCell) {
         pointCell.prepareBrush(color);
@@ -120,16 +127,17 @@ class PointSymbol {
     });
   }
   cellsBoundWidth() {
-    return this.cellsBound.right - this.cellsBound.left > 0
-      ? this.cellsBound.right - this.cellsBound.left
-      : this.cellsBound.left - this.cellsBound.right;
+    return this.cellsBound.right - this.cellsBound.left > 0 ?
+      this.cellsBound.right - this.cellsBound.left :
+      this.cellsBound.left - this.cellsBound.right;
   }
   cellsBoundHeight() {
-    return this.cellsBound.bottom - this.cellsBound.top > 0
-      ? this.cellsBound.bottom - this.cellsBound.top
-      : this.cellsBound.top - this.cellsBound.bottom;
+    return this.cellsBound.bottom - this.cellsBound.top > 0 ?
+      this.cellsBound.bottom - this.cellsBound.top :
+      this.cellsBound.top - this.cellsBound.bottom;
   }
 }
 
-export default PointSymbol
+window.PointSymbol = PointSymbol
 
+export default PointSymbol

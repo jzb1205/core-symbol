@@ -1,15 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>webpack</title>
-    <script src="./lib/pointSymbol.js"></script>
+    <script src="../lib/pointSymbol.js"></script>
 </head>
+
 <body>
-    <div>这是模板</div>
+    <canvas width="1000px" height='700px'></canvas>
     <script>
-        
-    console.log(PointSymbol)
+        window.onload = function () {
+            let canvas = document.querySelector('canvas')
+            let ctx = canvas.getContext('2d')
+            let geometry = {
+                x: 200,
+                y: 200
+            }
+            let symbolStyle = {
+                symbolid: 7140010,
+                symbolsize: 3.5,
+                symbolcolor: '#f00',
+                color: '#f00',
+                angle: 0,
+                scale: 5,
+                opacity: 1
+            }
+            PointSymbol.default.prototype.draw(ctx, geometry, symbolStyle)
+        }
     </script>
 </body>
+
 </html>
