@@ -1,6 +1,6 @@
 {
   "name": "core-symbol",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "package/index.js",
   "scripts": {
@@ -18,7 +18,11 @@
     "webpack": "^4.17.1"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/jzb1205/core-symbol.git"
+    "type": "git",
+    "url": "https://github.com/jzb1205/core-symbol.git"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/plugin-transform-runtime": "^7.13.15"
   }
 }

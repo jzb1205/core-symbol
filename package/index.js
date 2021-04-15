@@ -16,19 +16,13 @@ import PointCellType from "./supportClasses/PointCellType";
 import elesymbol from './config/elesymbol.json'
 
 class PointSymbol {
-  // cellsBound = {
-  //   left:0,
-  //   right:0,
-  //   bottom:0,
-  //   top:0
-  // }
-  // pointCells = []
   constructor(dv) {
     this.cellsCount = dv ? dv._cellsCount : 0;
     this.cellsBound =  dv ? dv._cellsBound : {}
     this.pointCells = [];
   }
   serialization(dv) {
+    this.pointCells = []
     this.symbolType = dv._symbolType;
     //符号唯一代码
     this.symbolCode = dv._symbolCode;
@@ -137,7 +131,5 @@ class PointSymbol {
       this.cellsBound.top - this.cellsBound.bottom;
   }
 }
-
-window.PointSymbol = PointSymbol
 
 export default PointSymbol
