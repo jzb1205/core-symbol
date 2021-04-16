@@ -1,11 +1,11 @@
 {
   "name": "core-symbol",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "",
   "main": "package/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --watch"
+    "build": "webpack --watch --progress"
   },
   "keywords": [],
   "author": "",

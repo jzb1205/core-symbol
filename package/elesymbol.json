@@ -1,4 +1,4 @@
-var elesymbol = {
+{
   "1": {
     "_symbolType": 2,
     "_symbolCode": 1,
@@ -137145,5 +137145,3 @@ var elesymbol = {
     ]
   }
 }
-
-export default elesymbol

@@ -13,7 +13,7 @@ import SimplePointCell from "./point/SimplePointCell";
 import SurfacePointCell from "./point/SurfacePointCell";
 import Transform from "./utils/Transform";
 import PointCellType from "./supportClasses/PointCellType";
-import elesymbol from './../config/elesymbol'
+import elesymbol from './elesymbol'
 
 export class PointSymbol {
   constructor(dv) {

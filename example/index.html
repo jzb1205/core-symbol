@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>webpack</title>
-    <script src="./../config/elesymbol.js"></script>
+    <script src="./symbolIdList.js"></script>
     <script src="../lib/pointSymbol.js"></script>
 </head>
 
@@ -28,21 +28,19 @@
             }
             let xIndex = 0
             let yIndex = 1
-            for (const i in elesymbol) {
-                if (elesymbol[i]._symbolType !== 1) {
-                    continue
-                }
+            for (let i = 0; i < symbolIdList.length; i++) {
                 xIndex++
-                if (xIndex*20 > 1000) {
+                if (xIndex * 20 > 1000) {
                     yIndex++
                     xIndex = 1
                 }
                 geometry = {
-                    x: xIndex*100,
-                    y: yIndex*100
+                    x: xIndex * 100,
+                    y: yIndex * 100
                 }
-                symbolStyle.symbolid = i
+                symbolStyle.symbolid = symbolIdList[i]
                 symbolDraw.draw(ctx, geometry, symbolStyle)
+                
             }
         }
     </script>
