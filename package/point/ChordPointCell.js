@@ -36,6 +36,7 @@ class ChordPointCell extends SurfacePointCell {
         context.beginPath();
         if(!this.lineStyle.useExtend){
             context.strokeStyle = this.lineStyle.colorHex;
+            context.fillStyle = this.lineStyle.colorHex;
             context.lineWidth = this.lineStyle.width;
             this.cellFillStyle(context, function(pat){
                 that.drawExe(context, transform);
@@ -59,11 +60,11 @@ class ChordPointCell extends SurfacePointCell {
         }
         numPoints = numPoints > 120 ? 120 : numPoints;
 
-        points = new GeomUtil.shapeMakeEllipseArc(center.x, center.y, semiMajorAxis, semiMinorAxis,
+        points = new GeomUtil().shapeMakeEllipseArc(center.x, center.y, semiMajorAxis, semiMinorAxis,
             (allAngle - this.angle) + transform.angle * 180 / Math.PI, allAngle - this.endAngle,
             allAngle - this.startAngle, numPoints);
         //闭合
-        if(!new GeomUtil.isClosed(points)){
+        if(!new GeomUtil().isClosed(points)){
             points.push(points[0]);
         }
 

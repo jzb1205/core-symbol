@@ -12,11 +12,10 @@ class CurvegonPointCell extends SurfacePointCell {
     serialization (dv){
         this.serializationHeader2(dv);
         this.width = dv._width;
-        this.pointCount = dv._pointCount;
-
+        this.points = []
         var i = 0, x, y, geoPoint, point;
-        while(i < this.pointCount){
-            point = this._points[i];
+        while(i < dv._pointCount){
+            point = dv._points[i];
             x = point._x;
             y = point._y;
             geoPoint = {x, y};
@@ -36,6 +35,7 @@ class CurvegonPointCell extends SurfacePointCell {
         context.beginPath();
         if(!this.lineStyle.useExtend){
             context.strokeStyle = this.lineStyle.colorHex;
+            context.fillStyle = this.lineStyle.colorHex;
             context.lineWidth = this.lineStyle.width;
             this.cellFillStyle(context, function(pat){
                 that.drawExe(context, transform);

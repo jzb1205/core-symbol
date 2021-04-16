@@ -1,4 +1,5 @@
 import SurfacePointCell from './SurfacePointCell'
+import GeomUtil from './../utils/GeomUtil'
 
 class PiePointCell extends SurfacePointCell {
     constructor(){
@@ -39,6 +40,7 @@ class PiePointCell extends SurfacePointCell {
         context.beginPath();
         if(!this.lineStyle.useExtend){
             context.strokeStyle = this.lineStyle.colorHex;
+            context.fillStyle = this.lineStyle.colorHex;
             context.lineWidth = this.lineStyle.width;
             this.cellFillStyle(context, function(pat){
                 that.drawExe(context, transform);
@@ -62,7 +64,7 @@ class PiePointCell extends SurfacePointCell {
         }
         numPoints = numPoints > 120 ? 120 : numPoints;
 
-        points = new GeomUtil.shapeMakeEllipseArc(center.x, center.y, semiMajorAxis, semiMinorAxis,
+        points = new GeomUtil().shapeMakeEllipseArc(center.x, center.y, semiMajorAxis, semiMinorAxis,
             (allAngle - this.angle) + transform.angle * 180 / Math.PI, allAngle - this.endAngle,
             allAngle - this.startAngle, numPoints);
 

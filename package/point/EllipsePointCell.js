@@ -32,6 +32,7 @@ class EllipsePointCell extends SurfacePointCell {
         context.beginPath();
         if(!this.lineStyle.useExtend){
             context.strokeStyle = this.lineStyle.colorHex;
+            context.fillStyle = this.lineStyle.colorHex;
             context.lineWidth = this.lineStyle.width;
             this.cellFillStyle(context, function(pat){
                 that.drawExe(context, transform);

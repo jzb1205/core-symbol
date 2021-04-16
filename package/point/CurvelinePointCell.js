@@ -10,6 +10,7 @@ class CurvelinePointCell extends PointCell {
         this.width = 0;
     }
     serialization (dv){
+        this.points = []
         this.serializationHeader(dv);
         this.width = dv._width;
         this.pointCount = dv._pointCount;

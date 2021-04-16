@@ -31,6 +31,7 @@ class RectanglePointCell extends SurfacePointCell {
         context.beginPath();
         if(!this.lineStyle.useExtend){
             context.strokeStyle = this.lineStyle.colorHex;
+            context.fillStyle = this.lineStyle.colorHex;
             context.lineWidth = this.lineStyle.width;
             context.lineCap = this.lineStyle.getCap(256);
             context.lineJoin = this.lineStyle.getJoin(8192);

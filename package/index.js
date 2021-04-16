@@ -13,9 +13,9 @@ import SimplePointCell from "./point/SimplePointCell";
 import SurfacePointCell from "./point/SurfacePointCell";
 import Transform from "./utils/Transform";
 import PointCellType from "./supportClasses/PointCellType";
-import elesymbol from './config/elesymbol.json'
+import elesymbol from './../config/elesymbol'
 
-class PointSymbol {
+export class PointSymbol {
   constructor(dv) {
     this.cellsCount = dv ? dv._cellsCount : 0;
     this.cellsBound =  dv ? dv._cellsBound : {}
@@ -104,14 +104,13 @@ class PointSymbol {
       opacity = 1,
       transform;
     if (symbolStyle) {
-      color = symbolStyle.color;
-      angle = angle = (symbolStyle.angle * Math.PI) / 180;
-      //scale = symbolStyle.scale; 修改为与GIS2.0服务端算法一致
-      scale = symbolStyle.scale;
+      color = symbolStyle.symbolcolor;
+      angle = (symbolStyle.angle * Math.PI) / 180;
+      scale = symbolStyle.symbolsize;
       opacity = symbolStyle.opacity;
     }
     transform = new Transform(geometry.x, geometry.y, scale, angle);
-    this.pointCells.forEach(function (pointCell, index) {
+    this.pointCells.forEach(function (pointCell) {
       pointCell.preparePen(transform, 1, color);
       if (pointCell instanceof SurfacePointCell) {
         pointCell.prepareBrush(color);
@@ -131,5 +130,3 @@ class PointSymbol {
       this.cellsBound.top - this.cellsBound.bottom;
   }
 }
-
-export default PointSymbol

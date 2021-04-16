@@ -9,6 +9,7 @@ class PolylinePointCell extends PointCell {
     }
     serialization (dv){
         this.serializationHeader(dv);
+        this.points = []
         this.width = dv._width;
         this.pointCount = dv._pointCount;
 

@@ -13,6 +13,7 @@ class PolygonPointCell extends SurfacePointCell {
         this.pointCount = dv._pointCount;
 
         var i = 0, geoPoint;
+        this.points = []
         while(i < this.pointCount){
             geoPoint = {x:dv._points[i]._x, y:dv._points[i]._y}
             this.points.push(geoPoint);
@@ -31,6 +32,7 @@ class PolygonPointCell extends SurfacePointCell {
         context.beginPath();
         if(!this.lineStyle.useExtend){
             context.strokeStyle = this.lineStyle.colorHex;
+            context.fillStyle = this.lineStyle.colorHex;
             context.lineWidth = this.lineStyle.width;
             this.cellFillStyle(context, function(pat){
                 that.drawExe(context, transform);

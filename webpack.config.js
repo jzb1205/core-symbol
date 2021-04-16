@@ -7,7 +7,6 @@ module.exports = {
     output: {
         filename: 'pointSymbol.js',
         path: path.resolve(__dirname, 'lib'),
-        library: "PointSymbol",
         libraryTarget: "umd",
         umdNamedDefine: true,
         globalObject: "this"

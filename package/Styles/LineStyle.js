@@ -15,6 +15,7 @@ class LineStyle {
         this.dashStyle = dashStyle ? dashStyle : 0;
         this.lineCap = lineCap ? lineCap :"butt";
         this.lineJoin = lineJoin ? lineJoin :"round";
+        this.colorHex = ''
         this.pattern = undefined;
     }
     getCap(value){

@@ -7,7 +7,6 @@ class PointCell {
         this.cellType = undefined;
         this.color = 0;
         this.colorLocked = false;
-        this.points = []
         this.lineStyle = new LineStyle();
         this.brushStyle = new BrushStyle();
     }
@@ -28,6 +27,7 @@ class PointCell {
         var thinkness = transform.toScreenWidth(width);
         this.lineStyle.width = thinkness < 1 ? 1 : thinkness;
         this.lineStyle.color = color;
+        this.lineStyle.colorHex = color;
     }
     preparePen(){
 

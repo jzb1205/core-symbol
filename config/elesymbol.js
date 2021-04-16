@@ -1,4 +1,4 @@
-{
+var elesymbol = {
   "1": {
     "_symbolType": 2,
     "_symbolCode": 1,
@@ -7,8 +7,7 @@
     "_position": 194,
     "_cellsCount": 2,
     "_width": 4,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 158,
         "_cellType": 4,
         "_width": 4,
@@ -29,8 +28,7 @@
         "_endType": 2,
         "_directionType": 3,
         "_pointCellsCount": 2,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 109,
             "_cellType": 2,
             "_color": 0,
@@ -128,8 +126,7 @@
       "_top": 1.5,
       "_bottom": -1.53
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -156,8 +153,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.29,
             "_y": 1.05
           },
@@ -286,8 +282,7 @@
         },
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 0.4
           },
@@ -342,8 +337,7 @@
         },
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6900000000000001,
             "_y": 0.07
           },
@@ -398,8 +392,7 @@
         },
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.48,
             "_y": -0.25
           },
@@ -444,8 +437,7 @@
       "_top": 0.5,
       "_bottom": -0.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 105,
         "_cellType": 2,
         "_color": 0,
@@ -499,8 +491,7 @@
         },
         "_width": 0.15,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.28,
             "_y": 0.5
           },
@@ -529,8 +520,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 255,
@@ -609,40 +599,38 @@
       "_top": 0.15,
       "_bottom": -0.15
     },
-    "_pointCells": [
-      {
-        "_position": 123,
-        "_cellType": 8,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 255,
-        "_width": 0.1,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 0.15,
-        "_shortAxis": 0.15,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 123,
+      "_cellType": 8,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 255,
+      "_width": 0.1,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 0.15,
+      "_shortAxis": 0.15,
+      "_angle": 0
+    }]
   },
   "311": {
     "_symbolType": 1,
@@ -657,40 +645,38 @@
       "_top": 0.8,
       "_bottom": -0.8
     },
-    "_pointCells": [
-      {
-        "_position": 123,
-        "_cellType": 8,
-        "_color": 0,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 14504,
-        "_width": 0.1,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 0.8,
-        "_shortAxis": 0.8,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 123,
+      "_cellType": 8,
+      "_color": 0,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 14504,
+      "_width": 0.1,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 0.8,
+      "_shortAxis": 0.8,
+      "_angle": 0
+    }]
   },
   "312": {
     "_symbolType": 1,
@@ -705,8 +691,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 118,
         "_cellType": 2,
         "_color": 49407,
@@ -1034,8 +1019,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 114,
         "_cellType": 2,
         "_color": 12611584,
@@ -1363,40 +1347,38 @@
       "_top": 2.8000000000000007,
       "_bottom": -2.8000000000000007
     },
-    "_pointCells": [
-      {
-        "_position": 121,
-        "_cellType": 8,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 59110,
-        "_width": 0.55,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 2.8000000000000003,
-        "_shortAxis": 2.8000000000000003,
-        "_angle": 270
-      }
-    ]
+    "_pointCells": [{
+      "_position": 121,
+      "_cellType": 8,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 59110,
+      "_width": 0.55,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 2.8000000000000003,
+      "_shortAxis": 2.8000000000000003,
+      "_angle": 270
+    }]
   },
   "387": {
     "_symbolType": 1,
@@ -1411,8 +1393,7 @@
       "_top": 3.0500000000000003,
       "_bottom": -3.0500000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 8,
         "_color": 16740352,
@@ -1491,40 +1472,38 @@
       "_top": 2.8000000000000003,
       "_bottom": -2.8000000000000003
     },
-    "_pointCells": [
-      {
-        "_position": 121,
-        "_cellType": 8,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 255,
-        "_width": 0.28,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 2.8000000000000003,
-        "_shortAxis": 2.8000000000000003,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 121,
+      "_cellType": 8,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 255,
+      "_width": 0.28,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 2.8000000000000003,
+      "_shortAxis": 2.8000000000000003,
+      "_angle": 0
+    }]
   },
   "389": {
     "_symbolType": 1,
@@ -1539,40 +1518,38 @@
       "_top": 2.8000000000000003,
       "_bottom": -2.8000000000000003
     },
-    "_pointCells": [
-      {
-        "_position": 127,
-        "_cellType": 8,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 59110,
-        "_width": 0.28,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 2.8000000000000003,
-        "_shortAxis": 2.8000000000000003,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 127,
+      "_cellType": 8,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 59110,
+      "_width": 0.28,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 2.8000000000000003,
+      "_shortAxis": 2.8000000000000003,
+      "_angle": 0
+    }]
   },
   "390": {
     "_symbolType": 1,
@@ -1587,40 +1564,38 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 125,
-        "_cellType": 8,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 1.5,
-        "_shortAxis": 1.5,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 125,
+      "_cellType": 8,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 1.5,
+      "_shortAxis": 1.5,
+      "_angle": 0
+    }]
   },
   "391": {
     "_symbolType": 1,
@@ -1635,8 +1610,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -1715,40 +1689,38 @@
       "_top": 0.2,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
-        "_position": 123,
-        "_cellType": 8,
-        "_color": 4294967295,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 255,
-        "_width": 0.1,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 0.2,
-        "_shortAxis": 0.2,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 123,
+      "_cellType": 8,
+      "_color": 4294967295,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 255,
+      "_width": 0.1,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 0.2,
+      "_shortAxis": 0.2,
+      "_angle": 0
+    }]
   },
   "393": {
     "_symbolType": 1,
@@ -1763,8 +1735,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 105,
         "_cellType": 2,
         "_color": 4343993,
@@ -2037,40 +2008,38 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
-        "_position": 129,
-        "_cellType": 8,
-        "_color": 4294967295,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 255,
-        "_width": 0.1,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 0.3,
-        "_shortAxis": 0.3,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 129,
+      "_cellType": 8,
+      "_color": 4294967295,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 255,
+      "_width": 0.1,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 0.3,
+      "_shortAxis": 0.3,
+      "_angle": 0
+    }]
   },
   "395": {
     "_symbolType": 1,
@@ -2085,54 +2054,51 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
-        "_position": 149,
-        "_cellType": 9,
-        "_color": 4294967295,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 149,
+      "_cellType": 9,
+      "_color": 4294967295,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 198,
+      "_width": 0.01,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -0.3,
+          "_y": 0.3
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 0.3,
+          "_y": 0.3
         },
-        "_fillStyle": 7,
-        "_fillColor": 198,
-        "_width": 0.01,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -0.3,
-            "_y": 0.3
-          },
-          {
-            "_x": 0.3,
-            "_y": 0.3
-          },
-          {
-            "_x": 0.3,
-            "_y": -0.3
-          },
-          {
-            "_x": -0.3,
-            "_y": -0.3
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 0.3,
+          "_y": -0.3
+        },
+        {
+          "_x": -0.3,
+          "_y": -0.3
+        }
+      ]
+    }]
   },
   "396": {
     "_symbolType": 1,
@@ -2147,54 +2113,51 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
-        "_position": 149,
-        "_cellType": 9,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 149,
+      "_cellType": 9,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.01,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.45,
+          "_y": 1.45
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.45,
+          "_y": 1.45
         },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.01,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.45,
-            "_y": 1.45
-          },
-          {
-            "_x": 1.45,
-            "_y": 1.45
-          },
-          {
-            "_x": 1.45,
-            "_y": -1.45
-          },
-          {
-            "_x": -1.45,
-            "_y": -1.45
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.45,
+          "_y": -1.45
+        },
+        {
+          "_x": -1.45,
+          "_y": -1.45
+        }
+      ]
+    }]
   },
   "397": {
     "_symbolType": 1,
@@ -2209,54 +2172,51 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
-        "_position": 149,
-        "_cellType": 9,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 149,
+      "_cellType": 9,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.01,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.45,
+          "_y": 1.45
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.45,
+          "_y": 1.45
         },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.01,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.45,
-            "_y": 1.45
-          },
-          {
-            "_x": 1.45,
-            "_y": 1.45
-          },
-          {
-            "_x": 1.45,
-            "_y": -1.45
-          },
-          {
-            "_x": -1.45,
-            "_y": -1.45
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.45,
+          "_y": -1.45
+        },
+        {
+          "_x": -1.45,
+          "_y": -1.45
+        }
+      ]
+    }]
   },
   "398": {
     "_symbolType": 1,
@@ -2271,40 +2231,38 @@
       "_top": 2.8000000000000007,
       "_bottom": -2.8000000000000007
     },
-    "_pointCells": [
-      {
-        "_position": 127,
-        "_cellType": 8,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 59110,
-        "_width": 0.18,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 2.8000000000000003,
-        "_shortAxis": 2.8000000000000003,
-        "_angle": 270
-      }
-    ]
+    "_pointCells": [{
+      "_position": 127,
+      "_cellType": 8,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 59110,
+      "_width": 0.18,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 2.8000000000000003,
+      "_shortAxis": 2.8000000000000003,
+      "_angle": 270
+    }]
   },
   "399": {
     "_symbolType": 1,
@@ -2319,40 +2277,38 @@
       "_top": 0.9,
       "_bottom": -0.9
     },
-    "_pointCells": [
-      {
-        "_position": 127,
-        "_cellType": 8,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 4343993,
-        "_width": 0.15,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 0.9,
-        "_shortAxis": 0.9,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 127,
+      "_cellType": 8,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4343993,
+      "_width": 0.15,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 0.9,
+      "_shortAxis": 0.9,
+      "_angle": 0
+    }]
   },
   "400": {
     "_symbolType": 1,
@@ -2367,40 +2323,38 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
-        "_position": 123,
-        "_cellType": 8,
-        "_color": 255,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 59110,
-        "_width": 0.1,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 0.3,
-        "_shortAxis": 0.3,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 123,
+      "_cellType": 8,
+      "_color": 255,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 59110,
+      "_width": 0.1,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 0.3,
+      "_shortAxis": 0.3,
+      "_angle": 0
+    }]
   },
   "401": {
     "_symbolType": 1,
@@ -2415,8 +2369,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 129,
         "_cellType": 8,
         "_color": 255,
@@ -2516,28 +2469,26 @@
     "_position": 54,
     "_cellsCount": 1,
     "_width": 0.3,
-    "_lineCells": [
-      {
-        "_position": 54,
-        "_cellType": 0,
-        "_width": 0.3,
-        "_color": 14504,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_simpleLineStyle": 0
-      }
-    ]
+    "_lineCells": [{
+      "_position": 54,
+      "_cellType": 0,
+      "_width": 0.3,
+      "_color": 14504,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_simpleLineStyle": 0
+    }]
   },
   "420": {
     "_symbolType": 2,
@@ -2547,42 +2498,38 @@
     "_position": 92,
     "_cellsCount": 1,
     "_width": 0.2,
-    "_lineCells": [
-      {
-        "_position": 92,
-        "_cellType": 2,
-        "_width": 0.2,
-        "_color": 255,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_offset": 0,
-        "_hasTemplate": 1,
-        "_symbolTemplate": {
-          "_interval": 0.5,
-          "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 2,
-              "_gap": 2
-            }
-          ],
-          "_position": 84
-        },
-        "_cap": 512,
-        "_join": 8192
-      }
-    ]
+    "_lineCells": [{
+      "_position": 92,
+      "_cellType": 2,
+      "_width": 0.2,
+      "_color": 255,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_offset": 0,
+      "_hasTemplate": 1,
+      "_symbolTemplate": {
+        "_interval": 0.5,
+        "_patternSize": 1,
+        "_patternElements": [{
+          "_mark": 2,
+          "_gap": 2
+        }],
+        "_position": 84
+      },
+      "_cap": 512,
+      "_join": 8192
+    }]
   },
   "421": {
     "_symbolType": 2,
@@ -2592,8 +2539,7 @@
     "_position": 455,
     "_cellsCount": 2,
     "_width": 1,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 54,
         "_cellType": 0,
         "_width": 0.12,
@@ -2636,17 +2582,14 @@
         "_symbolTemplate": {
           "_interval": 50,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 1
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 1
+          }],
           "_position": 102
         },
         "_pointCellsCount": 5,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 171,
             "_cellType": 8,
             "_color": 4343993,
@@ -2763,8 +2706,7 @@
             "_fillColor": 4343993,
             "_width": 0.01,
             "_pointCount": 4,
-            "_points": [
-              {
+            "_points": [{
                 "_x": -0.23999999999999996,
                 "_y": 0.35
               },
@@ -2809,8 +2751,7 @@
             "_fillColor": 4343993,
             "_width": 0.01,
             "_pointCount": 4,
-            "_points": [
-              {
+            "_points": [{
                 "_x": 0.18,
                 "_y": 0.20000000000000004
               },
@@ -2845,40 +2786,38 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
-        "_position": 136,
-        "_cellType": 8,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 1.45,
-        "_shortAxis": 1.45,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 136,
+      "_cellType": 8,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 1.45,
+      "_shortAxis": 1.45,
+      "_angle": 0
+    }]
   },
   "494": {
     "_symbolType": 1,
@@ -2893,8 +2832,7 @@
       "_top": 0.9500000000000001,
       "_bottom": -0.9500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 149,
         "_cellType": 9,
         "_color": 250,
@@ -2921,8 +2859,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.05,
             "_y": 0.9500000000000001
           },
@@ -2967,8 +2904,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.05,
             "_y": -0.85
           },
@@ -3013,8 +2949,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.52,
             "_y": 0.8
           },
@@ -3059,8 +2994,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.63,
             "_y": 0.8
           },
@@ -3093,8 +3027,7 @@
       "_top": 0.9500000000000001,
       "_bottom": -0.9500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 250,
@@ -3121,8 +3054,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.05,
             "_y": 0.9500000000000001
           },
@@ -3167,8 +3099,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.05,
             "_y": -0.85
           },
@@ -3213,8 +3144,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.52,
             "_y": 0.79
           },
@@ -3259,8 +3189,7 @@
         "_fillColor": 10399959,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 0.79
           },
@@ -3305,8 +3234,7 @@
         "_fillColor": 250,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.63,
             "_y": 0.79
           },
@@ -3339,54 +3267,51 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 149,
-        "_cellType": 9,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 149,
+      "_cellType": 9,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.5,
+          "_y": 1.5
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.5,
+          "_y": 1.5
         },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": -1.5
-          },
-          {
-            "_x": -1.5,
-            "_y": -1.5
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.5,
+          "_y": -1.5
+        },
+        {
+          "_x": -1.5,
+          "_y": -1.5
+        }
+      ]
+    }]
   },
   "549": {
     "_symbolType": 1,
@@ -3401,8 +3326,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4294967295,
@@ -3429,8 +3353,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -3475,8 +3398,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -3509,54 +3431,51 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 149,
-        "_cellType": 9,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 149,
+      "_cellType": 9,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.5,
+          "_y": 1.5
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.5,
+          "_y": 1.5
         },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": -1.5
-          },
-          {
-            "_x": -1.5,
-            "_y": -1.5
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.5,
+          "_y": -1.5
+        },
+        {
+          "_x": -1.5,
+          "_y": -1.5
+        }
+      ]
+    }]
   },
   "551": {
     "_symbolType": 1,
@@ -3571,8 +3490,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4294967295,
@@ -3599,8 +3517,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -3645,8 +3562,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -3674,8 +3590,7 @@
     "_position": 259,
     "_cellsCount": 2,
     "_width": 5,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 223,
         "_cellType": 4,
         "_width": 5,
@@ -3696,8 +3611,7 @@
         "_endType": 1,
         "_directionType": 3,
         "_pointCellsCount": 3,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 125,
             "_cellType": 2,
             "_color": 14504,
@@ -3817,37 +3731,33 @@
     "_symbolName": "辅助面",
     "_drawMode": 13,
     "_position": 58,
-    "_fillCells": [
-      {
-        "_position": 58,
+    "_fillCells": [{
+      "_position": 58,
+      "_cellType": 0,
+      "_color": 4294967295,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 54,
         "_cellType": 0,
-        "_color": 4294967295,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 54,
-            "_cellType": 0,
-            "_width": 0.1,
-            "_color": 168,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 0.1,
+        "_color": 168,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "20014": {
     "_symbolType": 3,
@@ -3855,37 +3765,33 @@
     "_symbolName": "服务范围",
     "_drawMode": 13,
     "_position": 60,
-    "_fillCells": [
-      {
-        "_position": 60,
+    "_fillCells": [{
+      "_position": 60,
+      "_cellType": 0,
+      "_color": 16771262,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 56,
         "_cellType": 0,
-        "_color": 16771262,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 56,
-            "_cellType": 0,
-            "_width": 2,
-            "_color": 15096832,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 2,
+        "_color": 15096832,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "20015": {
     "_symbolType": 3,
@@ -3893,37 +3799,33 @@
     "_symbolName": "运维工区",
     "_drawMode": 13,
     "_position": 60,
-    "_fillCells": [
-      {
-        "_position": 60,
+    "_fillCells": [{
+      "_position": 60,
+      "_cellType": 0,
+      "_color": 12512255,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 56,
         "_cellType": 0,
-        "_color": 12512255,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 56,
-            "_cellType": 0,
-            "_width": 2,
-            "_color": 8366079,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 2,
+        "_color": 8366079,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "20016": {
     "_symbolType": 3,
@@ -3931,37 +3833,33 @@
     "_symbolName": "智能小区",
     "_drawMode": 13,
     "_position": 60,
-    "_fillCells": [
-      {
-        "_position": 60,
+    "_fillCells": [{
+      "_position": 60,
+      "_cellType": 0,
+      "_color": 4294967295,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 56,
         "_cellType": 0,
-        "_color": 4294967295,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 56,
-            "_cellType": 0,
-            "_width": 0.1,
-            "_color": 168,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 0.1,
+        "_color": 168,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "20017": {
     "_symbolType": 3,
@@ -3969,37 +3867,33 @@
     "_symbolName": "量测范围",
     "_drawMode": 13,
     "_position": 60,
-    "_fillCells": [
-      {
-        "_position": 60,
+    "_fillCells": [{
+      "_position": 60,
+      "_cellType": 0,
+      "_color": 0,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 56,
         "_cellType": 0,
-        "_color": 0,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 56,
-            "_cellType": 0,
-            "_width": 0.5,
-            "_color": 8377343,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 0.5,
+        "_color": 8377343,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "30058": {
     "_symbolType": 2,
@@ -4009,8 +3903,7 @@
     "_position": 454,
     "_cellsCount": 3,
     "_width": 1,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 72,
         "_cellType": 2,
         "_width": 0.18,
@@ -4056,17 +3949,14 @@
         "_symbolTemplate": {
           "_interval": 0.8,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 1
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 1
+          }],
           "_position": 120
         },
         "_pointCellsCount": 6,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 173,
             "_cellType": 2,
             "_color": 168,
@@ -4275,28 +4165,26 @@
     "_position": 56,
     "_cellsCount": 1,
     "_width": 0.12,
-    "_lineCells": [
-      {
-        "_position": 56,
-        "_cellType": 0,
-        "_width": 0.12,
-        "_color": 0,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_simpleLineStyle": 0
-      }
-    ]
+    "_lineCells": [{
+      "_position": 56,
+      "_cellType": 0,
+      "_width": 0.12,
+      "_color": 0,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_simpleLineStyle": 0
+    }]
   },
   "30061": {
     "_symbolType": 2,
@@ -4306,31 +4194,29 @@
     "_position": 72,
     "_cellsCount": 1,
     "_width": 1.4000000000000001,
-    "_lineCells": [
-      {
-        "_position": 72,
-        "_cellType": 2,
-        "_width": 1.4000000000000001,
-        "_color": 14504,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_offset": 0,
-        "_hasTemplate": -1,
-        "_cap": 512,
-        "_join": 8192
-      }
-    ]
+    "_lineCells": [{
+      "_position": 72,
+      "_cellType": 2,
+      "_width": 1.4000000000000001,
+      "_color": 14504,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_offset": 0,
+      "_hasTemplate": -1,
+      "_cap": 512,
+      "_join": 8192
+    }]
   },
   "42401": {
     "_symbolType": 2,
@@ -4340,8 +4226,7 @@
     "_position": 207,
     "_cellsCount": 4,
     "_width": 0.8,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 71,
         "_cellType": 2,
         "_width": 0.8,
@@ -4433,8 +4318,7 @@
         "_symbolTemplate": {
           "_interval": 8,
           "_patternSize": 2,
-          "_patternElements": [
-            {
+          "_patternElements": [{
               "_mark": 0,
               "_gap": 1
             },
@@ -4458,8 +4342,7 @@
     "_position": 107,
     "_cellsCount": 2,
     "_width": 0.2,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 71,
         "_cellType": 2,
         "_width": 0.2,
@@ -4515,8 +4398,7 @@
     "_position": 183,
     "_cellsCount": 4,
     "_width": 2.2,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 75,
         "_cellType": 2,
         "_width": 2.2,
@@ -4616,37 +4498,33 @@
     "_symbolName": "城市绿地",
     "_drawMode": 13,
     "_position": 60,
-    "_fillCells": [
-      {
-        "_position": 60,
+    "_fillCells": [{
+      "_position": 60,
+      "_cellType": 0,
+      "_color": 13434828,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 56,
         "_cellType": 0,
-        "_color": 13434828,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 56,
-            "_cellType": 0,
-            "_width": 0.12,
-            "_color": 4294967295,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_width": 0.12,
+        "_color": 4294967295,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "44001": {
     "_symbolType": 3,
@@ -4654,37 +4532,33 @@
     "_symbolName": "行政区界",
     "_drawMode": 13,
     "_position": 60,
-    "_fillCells": [
-      {
-        "_position": 60,
+    "_fillCells": [{
+      "_position": 60,
+      "_cellType": 0,
+      "_color": 4294967295,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 56,
         "_cellType": 0,
-        "_color": 4294967295,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 56,
-            "_cellType": 0,
-            "_width": 0.05,
-            "_color": 0,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 0.05,
+        "_color": 0,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "1010010": {
     "_symbolType": 1,
@@ -4699,8 +4573,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -4727,8 +4600,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -4935,8 +4807,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -4992,8 +4863,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -5026,8 +4896,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -5083,8 +4952,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -5436,8 +5304,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -5493,8 +5360,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -5527,8 +5393,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -5555,8 +5420,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -5792,8 +5656,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -5907,8 +5770,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -5941,8 +5803,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -5969,8 +5830,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -6351,8 +6211,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -6466,8 +6325,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -6500,8 +6358,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -6705,8 +6562,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -6739,8 +6595,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -6799,8 +6654,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -6833,8 +6687,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -7064,8 +6917,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -7417,8 +7269,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4343993,
@@ -7445,8 +7296,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -7682,8 +7532,7 @@
       "_top": 1.5000000727220502,
       "_bottom": -1.5000000727220502
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -7826,8 +7675,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.4999999999999998,
             "_y": -1.5000000000000002
           },
@@ -8179,8 +8027,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -8207,8 +8054,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -8357,8 +8203,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -8385,8 +8230,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 2.220446049250313e-16,
             "_y": 1.1030865786510142
           },
@@ -8518,8 +8362,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -8552,8 +8395,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4343993,
@@ -8580,8 +8422,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 2.220446049250313e-16,
             "_y": 1.1030865786510142
           },
@@ -8626,8 +8467,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -8660,8 +8500,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -8688,8 +8527,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -9273,8 +9111,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 4343993,
@@ -9388,8 +9225,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -9422,8 +9258,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -9450,8 +9285,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -9919,8 +9753,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -9947,8 +9780,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -10097,8 +9929,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -10125,8 +9956,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -10333,8 +10163,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -10361,8 +10190,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -10482,8 +10310,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -10594,8 +10421,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -10674,8 +10500,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -11070,8 +10895,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -11147,8 +10971,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -11233,8 +11056,7 @@
         "_fillColor": 4343993,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.24,
             "_y": 0
           },
@@ -11279,8 +11101,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -11313,8 +11134,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -11341,8 +11161,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -11445,8 +11264,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.24,
             "_y": 0
           },
@@ -11479,8 +11297,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -11991,8 +11808,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -12213,8 +12029,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -12241,8 +12056,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -12330,8 +12144,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -12358,8 +12171,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -12447,8 +12259,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -12475,8 +12286,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -12564,8 +12374,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -12592,8 +12401,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.51,
             "_y": 1.5
           },
@@ -12681,8 +12489,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -12709,8 +12516,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -12798,8 +12604,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -12826,8 +12631,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -12915,8 +12719,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -12943,8 +12746,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13032,8 +12834,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -13060,8 +12861,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13149,8 +12949,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -13177,8 +12976,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13266,8 +13064,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -13294,8 +13091,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13383,8 +13179,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -13411,8 +13206,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13500,8 +13294,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -13528,8 +13321,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13612,31 +13404,29 @@
     "_position": 70,
     "_cellsCount": 1,
     "_width": 0.15,
-    "_lineCells": [
-      {
-        "_position": 70,
-        "_cellType": 2,
-        "_width": 0.15,
-        "_color": 168,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_offset": 0,
-        "_hasTemplate": -1,
-        "_cap": 512,
-        "_join": 8192
-      }
-    ]
+    "_lineCells": [{
+      "_position": 70,
+      "_cellType": 2,
+      "_width": 0.15,
+      "_color": 168,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_offset": 0,
+      "_hasTemplate": -1,
+      "_cap": 512,
+      "_join": 8192
+    }]
   },
   "2020010": {
     "_symbolType": 1,
@@ -13651,8 +13441,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -13679,8 +13468,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13771,8 +13559,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4294967295,
@@ -13799,8 +13586,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -13903,8 +13689,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -13937,8 +13722,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -13965,8 +13749,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -14089,8 +13872,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4294967295,
@@ -14117,8 +13899,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -14253,8 +14034,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -14287,40 +14067,38 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 121,
-        "_cellType": 8,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 1.5,
-        "_shortAxis": 1.5,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 121,
+      "_cellType": 8,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 1.5,
+      "_shortAxis": 1.5,
+      "_angle": 0
+    }]
   },
   "2020051": {
     "_symbolType": 1,
@@ -14335,8 +14113,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 131,
         "_cellType": 8,
         "_color": 4343993,
@@ -14415,8 +14192,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -14550,8 +14326,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4294967295,
@@ -14717,8 +14492,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -14823,8 +14597,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4294967295,
@@ -14961,8 +14734,7 @@
       "_top": 1.35,
       "_bottom": -1.35
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 105,
         "_cellType": 2,
         "_color": 4343993,
@@ -15047,8 +14819,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.75,
             "_y": 1.35
           },
@@ -15151,8 +14922,7 @@
       "_top": 1.35,
       "_bottom": -1.35
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 223,
         "_cellType": 4,
         "_color": 4294967295,
@@ -15179,8 +14949,7 @@
         "_fillColor": 10399959,
         "_width": 0.1,
         "_pointCount": 8,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.71,
             "_y": 1.3
           },
@@ -15299,8 +15068,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.75,
             "_y": 1.35
           },
@@ -15403,54 +15171,51 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 157,
-        "_cellType": 9,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 157,
+      "_cellType": 9,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.5,
+          "_y": 1.5
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.5,
+          "_y": 1.5
         },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": -1.5
-          },
-          {
-            "_x": -1.5,
-            "_y": -1.5
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.5,
+          "_y": -1.5
+        },
+        {
+          "_x": -1.5,
+          "_y": -1.5
+        }
+      ]
+    }]
   },
   "2020077": {
     "_symbolType": 1,
@@ -15465,8 +15230,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4294967295,
@@ -15493,8 +15257,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -15539,8 +15302,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -15573,8 +15335,7 @@
       "_top": 0.75,
       "_bottom": -0.75
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -15653,8 +15414,7 @@
       "_top": 0.75,
       "_bottom": -0.75
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 135,
         "_cellType": 8,
         "_color": 4343993,
@@ -15797,8 +15557,7 @@
       "_top": 0.75,
       "_bottom": -0.75
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -16051,8 +15810,7 @@
       "_top": 0.75,
       "_bottom": -0.76
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -16369,8 +16127,7 @@
       "_top": 0.75,
       "_bottom": -0.75
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -16565,8 +16322,7 @@
       "_top": 0.75,
       "_bottom": -0.75
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -16825,8 +16581,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 131,
         "_cellType": 8,
         "_color": 4343993,
@@ -16937,8 +16692,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 135,
         "_cellType": 8,
         "_color": 4343993,
@@ -17145,8 +16899,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -17518,8 +17271,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -17987,8 +17739,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -18302,8 +18053,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -18713,54 +18463,51 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 153,
-        "_cellType": 9,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 153,
+      "_cellType": 9,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.1,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.5,
+          "_y": 1.5
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.5,
+          "_y": 1.5
         },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.1,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": -1.5
-          },
-          {
-            "_x": -1.5,
-            "_y": -1.5
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.5,
+          "_y": -1.5
+        },
+        {
+          "_x": -1.5,
+          "_y": -1.5
+        }
+      ]
+    }]
   },
   "2020141": {
     "_symbolType": 1,
@@ -18775,54 +18522,51 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 155,
-        "_cellType": 9,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 155,
+      "_cellType": 9,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.1,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.5,
+          "_y": 1.5
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.5,
+          "_y": 1.5
         },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.1,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": 1.5
-          },
-          {
-            "_x": 1.5,
-            "_y": -1.5
-          },
-          {
-            "_x": -1.5,
-            "_y": -1.5
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.5,
+          "_y": -1.5
+        },
+        {
+          "_x": -1.5,
+          "_y": -1.5
+        }
+      ]
+    }]
   },
   "2020142": {
     "_symbolType": 1,
@@ -18837,8 +18581,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4294967295,
@@ -18865,8 +18608,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -18911,8 +18653,7 @@
         "_fillColor": 10399959,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -18945,8 +18686,7 @@
       "_top": 0.61000002908882,
       "_bottom": -0.60000002908882
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 16763904,
@@ -19083,8 +18823,7 @@
       "_top": 0.61000002908882,
       "_bottom": -0.60000002908882
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4294967295,
@@ -19253,8 +18992,7 @@
       "_top": 0.4,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4343993,
@@ -19281,8 +19019,7 @@
         "_fillColor": 4343993,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 0.4
           },
@@ -19373,8 +19110,7 @@
       "_top": 0.4,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4343993,
@@ -19401,8 +19137,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 0.4
           },
@@ -19493,8 +19228,7 @@
       "_top": 0.15,
       "_bottom": -0.10000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -19657,8 +19391,7 @@
       "_top": 0.4,
       "_bottom": -0.10000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -19821,8 +19554,7 @@
       "_top": 0.1,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -19953,8 +19685,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -20085,8 +19816,7 @@
       "_top": 1.4000000000000001,
       "_bottom": -1.4000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -20249,8 +19979,7 @@
       "_top": 1.4000000000000001,
       "_bottom": -1.4000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -20471,8 +20200,7 @@
       "_top": 1,
       "_bottom": -1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -20499,8 +20227,7 @@
         "_fillColor": 4343993,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1
           },
@@ -20620,8 +20347,7 @@
       "_top": 0.9400000000000001,
       "_bottom": -0.15
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -20764,8 +20490,7 @@
         "_fillColor": 4294967295,
         "_width": 0.12,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.326115996058004,
             "_y": 0.3018351928021306
           },
@@ -20810,8 +20535,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.9400000000000001
           },
@@ -20869,8 +20593,7 @@
       "_top": 1.1500000000000001,
       "_bottom": -0.15
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -21013,8 +20736,7 @@
         "_fillColor": 4294967295,
         "_width": 0.12,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6631796846921421,
             "_y": 0.45681885582733717
           },
@@ -21059,8 +20781,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.8,
             "_y": 1.1500000000000001
           },
@@ -21118,8 +20839,7 @@
       "_top": 0.99,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -21262,8 +20982,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.326115996058004,
             "_y": 0.3718351928021306
           },
@@ -21308,8 +21027,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.07,
             "_y": 0.99
           },
@@ -21399,8 +21117,7 @@
       "_top": 1.1500000000000001,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -21514,8 +21231,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6631796846921421,
             "_y": 0.45681885582733717
           },
@@ -21560,8 +21276,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.8,
             "_y": 1.1500000000000001
           },
@@ -21680,8 +21395,7 @@
       "_top": 0.99,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -21824,8 +21538,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.326115996058004,
             "_y": 0.3718351928021306
           },
@@ -21870,8 +21583,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.07,
             "_y": 0.99
           },
@@ -21958,8 +21670,7 @@
       "_top": 1.1500000000000001,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -22073,8 +21784,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6631796846921421,
             "_y": 0.45681885582733717
           },
@@ -22119,8 +21829,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.8,
             "_y": 1.1500000000000001
           },
@@ -22236,8 +21945,7 @@
       "_top": 0.5500000509054357,
       "_bottom": -0.5500000509054357
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4343993,
@@ -22264,8 +21972,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.05,
             "_y": -0.5500000000000002
           },
@@ -22339,8 +22046,7 @@
         "_fillColor": 4343993,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.75,
             "_y": -0.15000000000000005
           },
@@ -22463,8 +22169,7 @@
       "_top": 0.5500000509054357,
       "_bottom": -0.5500000509054357
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4343993,
@@ -22491,8 +22196,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.05,
             "_y": -0.5500000000000002
           },
@@ -22566,8 +22270,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.75,
             "_y": -0.15000000000000005
           },
@@ -22690,8 +22393,7 @@
       "_top": 0.55,
       "_bottom": -0.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 163,
         "_cellType": 9,
         "_color": 4343993,
@@ -22718,8 +22420,7 @@
         "_fillColor": 4343993,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.75,
             "_y": -0.15000000000000005
           },
@@ -23219,8 +22920,7 @@
       "_top": 0.55,
       "_bottom": -0.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -23714,8 +23414,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.75,
             "_y": -0.15000000000000005
           },
@@ -23748,8 +23447,7 @@
       "_top": 0.4,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -23880,8 +23578,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 131,
         "_cellType": 8,
         "_color": 4343993,
@@ -23940,8 +23637,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.49,
             "_y": 0
           },
@@ -24028,8 +23724,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 131,
         "_cellType": 8,
         "_color": 4343993,
@@ -24117,8 +23812,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.48,
             "_y": 0
           },
@@ -24176,8 +23870,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -24204,8 +23897,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -24354,8 +24046,7 @@
       "_top": 1,
       "_bottom": -1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 4343993,
@@ -24518,8 +24209,7 @@
       "_top": 0.5,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 4343993,
@@ -24592,8 +24282,7 @@
       "_top": 3,
       "_bottom": 0
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -24666,8 +24355,7 @@
       "_top": 1.0000000000000002,
       "_bottom": -1.0000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -24694,8 +24382,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.5000000000000002,
             "_y": 0.9999999999999998
           },
@@ -24752,28 +24439,26 @@
     "_position": 54,
     "_cellsCount": 1,
     "_width": 0.2,
-    "_lineCells": [
-      {
-        "_position": 54,
-        "_cellType": 0,
-        "_width": 0.2,
-        "_color": 4343993,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_simpleLineStyle": 1
-      }
-    ]
+    "_lineCells": [{
+      "_position": 54,
+      "_cellType": 0,
+      "_width": 0.2,
+      "_color": 4343993,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_simpleLineStyle": 1
+    }]
   },
   "3020010": {
     "_symbolType": 1,
@@ -24788,8 +24473,7 @@
       "_top": 1,
       "_bottom": -1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 2,
         "_color": 4343993,
@@ -24949,8 +24633,7 @@
       "_top": 1,
       "_bottom": -1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -25110,54 +24793,51 @@
       "_top": 1.46,
       "_bottom": -1.49
     },
-    "_pointCells": [
-      {
-        "_position": 155,
-        "_cellType": 4,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 155,
+      "_cellType": 4,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4343993,
+      "_width": 0.15,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.1,
+          "_y": 1.46
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": -1.1,
+          "_y": -1.49
         },
-        "_fillStyle": 7,
-        "_fillColor": 4343993,
-        "_width": 0.15,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.1,
-            "_y": 1.46
-          },
-          {
-            "_x": -1.1,
-            "_y": -1.49
-          },
-          {
-            "_x": 1.5,
-            "_y": 0.01
-          },
-          {
-            "_x": -1.05,
-            "_y": 1.46
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.5,
+          "_y": 0.01
+        },
+        {
+          "_x": -1.05,
+          "_y": 1.46
+        }
+      ]
+    }]
   },
   "3040010": {
     "_symbolType": 1,
@@ -25172,8 +24852,7 @@
       "_top": 1.2000000000000002,
       "_bottom": -1.2000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -25200,8 +24879,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.9100000000000001,
             "_y": 1.1999999999999997
           },
@@ -25379,8 +25057,7 @@
       "_top": 1,
       "_bottom": -1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4343993,
@@ -25407,8 +25084,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 1
           },
@@ -25673,8 +25349,7 @@
       "_top": 1.51,
       "_bottom": -1.4900000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 8,
         "_color": 4343993,
@@ -25795,8 +25470,7 @@
         },
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1400000000000001,
             "_y": -0.19
           },
@@ -25829,8 +25503,7 @@
       "_top": 1.7007965185959133,
       "_bottom": -1.7007965185959133
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -25887,8 +25560,7 @@
         },
         "_width": 0.15,
         "_pointCount": 16,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.65,
             "_y": 1.1
           },
@@ -26024,8 +25696,7 @@
       "_top": 0.45000000000000007,
       "_bottom": -0.45000000000000007
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -26166,8 +25837,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.24,
             "_y": -0.26
           },
@@ -26200,8 +25870,7 @@
       "_top": 0.45000000000000007,
       "_bottom": -0.45000000000000007
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -27550,8 +27219,7 @@
       "_top": 0.45000000000000007,
       "_bottom": -0.45000000000000007
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -27608,8 +27276,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": -0.34
           },
@@ -27642,8 +27309,7 @@
       "_top": 0.33,
       "_bottom": -0.32000001551403734
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -27700,8 +27366,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0
           },
@@ -27792,8 +27457,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -27939,8 +27603,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.09,
             "_y": 0.39
           },
@@ -27983,8 +27646,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0
           },
@@ -28017,8 +27679,7 @@
       "_top": 0.33,
       "_bottom": -0.32000001551403734
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 139,
         "_cellType": 8,
         "_color": 4343993,
@@ -28075,8 +27736,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0
           },
@@ -28254,8 +27914,7 @@
       "_top": 0.44988633795462246,
       "_bottom": -0.4698863379546225
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 2,
         "_color": 4343993,
@@ -28505,8 +28164,7 @@
       "_top": 0.23977345614029733,
       "_bottom": -0.23977345614029733
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 139,
         "_cellType": 8,
         "_color": 4343993,
@@ -28643,8 +28301,7 @@
       "_top": 0.23977345614029733,
       "_bottom": -0.23977345614029733
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 138,
         "_cellType": 8,
         "_color": 4343993,
@@ -28781,8 +28438,7 @@
       "_top": 0.2397734667961322,
       "_bottom": -0.2397734667961322
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 138,
         "_cellType": 8,
         "_color": 4343993,
@@ -28919,8 +28575,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 141,
         "_cellType": 8,
         "_color": 4343993,
@@ -29098,8 +28753,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.19,
             "_y": 0.39
           },
@@ -29132,8 +28786,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -29311,8 +28964,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -29345,8 +28997,7 @@
       "_top": 0.37,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 145,
         "_cellType": 8,
         "_color": 4343993,
@@ -29976,8 +29627,7 @@
       "_top": 0.38,
       "_bottom": -0.34
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -30184,8 +29834,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.15,
             "_y": 0.38
           },
@@ -30218,8 +29867,7 @@
       "_top": 0.4,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 145,
         "_cellType": 8,
         "_color": 4343993,
@@ -30414,8 +30062,7 @@
       "_top": 0.32,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 8,
         "_color": 4343993,
@@ -30765,8 +30412,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0
           },
@@ -30799,8 +30445,7 @@
       "_top": 0.32,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 162,
         "_cellType": 8,
         "_color": 4343993,
@@ -31063,8 +30708,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0
           },
@@ -31225,8 +30869,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.34,
             "_y": 0.24
           },
@@ -31259,8 +30902,7 @@
       "_top": 0.32,
       "_bottom": -0.2490601504759771
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 162,
         "_cellType": 8,
         "_color": 4343993,
@@ -31438,8 +31080,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.15,
             "_y": 0
           },
@@ -31569,8 +31210,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0
           },
@@ -31603,8 +31243,7 @@
       "_top": 0.32,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 164,
         "_cellType": 8,
         "_color": 4343993,
@@ -31695,8 +31334,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.15,
             "_y": 0
           },
@@ -31826,8 +31464,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0
           },
@@ -31988,8 +31625,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.34,
             "_y": 0.24
           },
@@ -32022,8 +31658,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 144,
         "_cellType": 8,
         "_color": 4343993,
@@ -32334,8 +31969,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 146,
         "_cellType": 8,
         "_color": 4343993,
@@ -32571,8 +32205,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.27,
             "_y": 0
           },
@@ -32605,8 +32238,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 142,
         "_cellType": 8,
         "_color": 4343993,
@@ -33004,8 +32636,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 8,
         "_color": 4343993,
@@ -33241,8 +32872,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.27,
             "_y": 0.01
           },
@@ -33332,8 +32962,7 @@
       "_top": 0.45,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 168,
         "_cellType": 8,
         "_color": 4343993,
@@ -33540,8 +33169,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.27,
             "_y": 0
           },
@@ -33672,8 +33300,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.18,
             "_y": 0.37
           },
@@ -33735,8 +33362,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 8,
         "_color": 4343993,
@@ -34191,8 +33817,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 8,
         "_color": 4343993,
@@ -34560,8 +34185,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.41000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 166,
         "_cellType": 8,
         "_color": 4343993,
@@ -34970,8 +34594,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.17,
             "_y": 0.39
           },
@@ -35004,8 +34627,7 @@
       "_top": 0.24906015047597713,
       "_bottom": -0.24906015047597713
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 8,
         "_color": 4343993,
@@ -35183,8 +34805,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0
           },
@@ -35275,8 +34896,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 167,
         "_cellType": 8,
         "_color": 4343993,
@@ -35512,8 +35132,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0
           },
@@ -35587,8 +35206,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.19,
             "_y": 0.39
           },
@@ -35621,8 +35239,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 8,
         "_color": 4343993,
@@ -35771,8 +35388,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0
           },
@@ -35949,8 +35565,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 168,
         "_cellType": 8,
         "_color": 4343993,
@@ -36099,8 +35714,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0
           },
@@ -36318,8 +35932,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.18,
             "_y": 0.39
           },
@@ -36352,8 +35965,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 8,
         "_color": 4343993,
@@ -36664,8 +36276,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 145,
         "_cellType": 8,
         "_color": 4343993,
@@ -36901,8 +36512,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0
           },
@@ -36976,8 +36586,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.14,
             "_y": 0.28
           },
@@ -37097,8 +36706,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 145,
         "_cellType": 8,
         "_color": 8388736,
@@ -37296,8 +36904,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 167,
         "_cellType": 8,
         "_color": 4343993,
@@ -37795,8 +37402,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": -0.2
           },
@@ -37829,8 +37435,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 175,
         "_cellType": 8,
         "_color": 4343993,
@@ -38328,8 +37933,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": -0.2
           },
@@ -38403,8 +38007,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.17,
             "_y": -0.34
           },
@@ -38437,8 +38040,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.4297734667961322
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 166,
         "_cellType": 8,
         "_color": 4343993,
@@ -38792,8 +38394,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": 0.2
           },
@@ -38913,8 +38514,7 @@
       "_top": 0.48,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 166,
         "_cellType": 8,
         "_color": 4343993,
@@ -39268,8 +38868,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": 0.2
           },
@@ -39430,8 +39029,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.16,
             "_y": -0.34
           },
@@ -39464,8 +39062,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 8,
         "_color": 4343993,
@@ -39675,8 +39272,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": 0.2
           },
@@ -39883,8 +39479,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 8,
         "_color": 4343993,
@@ -40094,8 +39689,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": 0.2
           },
@@ -40343,8 +39937,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.17,
             "_y": -0.34
           },
@@ -40377,8 +39970,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.4390602417612632
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 8,
         "_color": 4343993,
@@ -40588,8 +40180,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": -0.2
           },
@@ -40796,8 +40387,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 8,
         "_color": 4343993,
@@ -41007,8 +40597,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": -0.2
           },
@@ -41256,8 +40845,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.17,
             "_y": -0.34
           },
@@ -41290,8 +40878,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 8,
         "_color": 4343993,
@@ -41501,8 +41088,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": 0
           },
@@ -41709,8 +41295,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 147,
         "_cellType": 8,
         "_color": 4343993,
@@ -41920,8 +41505,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": 0
           },
@@ -42169,8 +41753,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.47000000000000003,
             "_y": -0.25
           },
@@ -42203,8 +41786,7 @@
       "_top": 0.23000001115071433,
       "_bottom": -0.23000001115071433
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 8,
         "_color": 4343993,
@@ -42351,8 +41933,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.43,
             "_y": 0
           },
@@ -42541,8 +42122,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.18,
             "_y": 0
           },
@@ -42575,8 +42155,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 129,
         "_cellType": 8,
         "_color": 4343993,
@@ -42806,8 +42385,7 @@
       "_top": 0.4200000000000001,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 8,
         "_color": 4343993,
@@ -43310,8 +42888,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.36,
             "_y": 0
           },
@@ -43344,8 +42921,7 @@
       "_top": 0.2397734667961322,
       "_bottom": -0.2397734667961322
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -43592,8 +43168,7 @@
       "_top": 0.20000000969627335,
       "_bottom": -0.20000000969627335
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 150,
         "_cellType": 8,
         "_color": 4343993,
@@ -43855,8 +43430,7 @@
         },
         "_width": 0.02,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.45,
             "_y": 0
           },
@@ -43911,8 +43485,7 @@
         },
         "_width": 0.02,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.45,
             "_y": 0
           },
@@ -44072,8 +43645,7 @@
       "_top": 0.46,
       "_bottom": -0.41000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 154,
         "_cellType": 8,
         "_color": 4343993,
@@ -44220,8 +43792,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.43,
             "_y": 0
           },
@@ -44469,8 +44040,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.15,
             "_y": 0.38
           },
@@ -44503,8 +44073,7 @@
       "_top": 0.20000000969627335,
       "_bottom": -0.20000000969627335
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 152,
         "_cellType": 8,
         "_color": 4343993,
@@ -44766,8 +44335,7 @@
         },
         "_width": 0.02,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.45,
             "_y": 0
           },
@@ -44822,8 +44390,7 @@
         },
         "_width": 0.02,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.45,
             "_y": 0
           },
@@ -44880,8 +44447,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.1,
             "_y": 0
           },
@@ -44914,8 +44480,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 8,
         "_color": 4343993,
@@ -45062,8 +44627,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.43,
             "_y": 0
           },
@@ -45108,8 +44672,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.18,
             "_y": 0
           },
@@ -45270,8 +44833,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.15,
             "_y": 0.39
           },
@@ -45304,8 +44866,7 @@
       "_top": 0.46,
       "_bottom": -0.41000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 8,
         "_color": 4343993,
@@ -45452,8 +45013,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.43,
             "_y": 0
           },
@@ -45585,8 +45145,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.07,
             "_y": 0
           },
@@ -45660,8 +45219,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.15,
             "_y": 0.38
           },
@@ -45694,8 +45252,7 @@
       "_top": 0.33,
       "_bottom": -0.24906015047597713
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 147,
         "_cellType": 8,
         "_color": 4343993,
@@ -45841,8 +45398,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.17,
             "_y": 0
           },
@@ -45943,8 +45499,7 @@
         },
         "_width": 0.02,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.41000000000000003,
             "_y": 0
           },
@@ -46062,8 +45617,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.02,
             "_y": 0.3
           },
@@ -46096,8 +45650,7 @@
       "_top": 0.1500000169684786,
       "_bottom": -0.1500000169684786
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -46124,8 +45677,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.35000000000000003,
             "_y": -0.14999999999999997
           },
@@ -46216,8 +45768,7 @@
       "_top": 0.1500000169684786,
       "_bottom": -0.1500000169684786
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -46244,8 +45795,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.35000000000000003,
             "_y": -0.14999999999999997
           },
@@ -46336,8 +45886,7 @@
       "_top": 0.24285912048249336,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -46509,8 +46058,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.15492466867943783,
             "_y": 0.24192795139753842
           },
@@ -46543,8 +46091,7 @@
       "_top": 0.37,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -46716,8 +46263,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.05656854249492383,
             "_y": 0.36727922061357854
           },
@@ -46750,8 +46296,7 @@
       "_top": 0.15,
       "_bottom": -0.10000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -46914,8 +46459,7 @@
       "_top": 0.4,
       "_bottom": -0.10000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -47078,8 +46622,7 @@
       "_top": 0.24285912048249336,
       "_bottom": -0.10000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -47225,8 +46768,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.09492466867943784,
             "_y": 0.24192795139753842
           },
@@ -47288,8 +46830,7 @@
       "_top": 0.37,
       "_bottom": -0.10000000000000005
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -47464,8 +47005,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.013431457505076176,
             "_y": 0.36727922061357854
           },
@@ -47498,8 +47038,7 @@
       "_top": 0.1,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -47630,8 +47169,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -47762,8 +47300,7 @@
       "_top": 0.27633380606955915,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -47906,8 +47443,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.22122100144027465,
             "_y": 0.20510283070352656
           },
@@ -47940,8 +47476,7 @@
       "_top": 0.4,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -48084,8 +47619,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12155390207414164,
             "_y": 0.3124231208403756
           },
@@ -48118,8 +47652,7 @@
       "_top": 0.13863049191622784,
       "_bottom": -0.038630491916227847
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -48233,8 +47766,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.2578362086720912,
             "_y": 0.020431725022645706
           },
@@ -48267,8 +47799,7 @@
       "_top": 0.27633380606955915,
       "_bottom": 0
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -48382,8 +47913,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.22122100144027465,
             "_y": 0.20510283070352656
           },
@@ -48416,8 +47946,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -48638,8 +48167,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -48860,8 +48388,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -49082,8 +48609,7 @@
       "_top": 0.33,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 166,
         "_cellType": 9,
         "_color": 4343993,
@@ -49110,8 +48636,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": 0.1
           },
@@ -49446,8 +48971,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.14,
             "_y": 0.28
           },
@@ -49608,8 +49132,7 @@
         "_fillColor": 16777215,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.09999999999999999,
             "_y": 0.19999999999999998
           },
@@ -49700,8 +49223,7 @@
       "_top": 0.1,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -49728,8 +49250,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": 0.1
           },
@@ -49791,8 +49312,7 @@
       "_top": 0.72,
       "_bottom": -0.06000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -50071,8 +49591,7 @@
       "_top": 0.72,
       "_bottom": -0.06000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -50351,8 +49870,7 @@
       "_top": 0.72,
       "_bottom": -0.06000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -50631,8 +50149,7 @@
       "_top": 0.72,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -50908,8 +50425,7 @@
       "_top": 0.72,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -51185,8 +50701,7 @@
       "_top": 0.72,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 2,
         "_color": 4343993,
@@ -51462,8 +50977,7 @@
       "_top": 0.66,
       "_bottom": -0.06000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -51742,8 +51256,7 @@
       "_top": 0.66,
       "_bottom": -0.06000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 2,
         "_color": 4343993,
@@ -52022,8 +51535,7 @@
       "_top": 0.53,
       "_bottom": -0.06000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -52215,8 +51727,7 @@
       "_top": 0.53,
       "_bottom": -0.06000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -52408,8 +51919,7 @@
       "_top": 0.48000000000000004,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 8,
         "_color": 4343993,
@@ -52775,8 +52285,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.49
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -53142,8 +52651,7 @@
       "_top": 0.48000000000000004,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -53509,8 +53017,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.49
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -53876,8 +53383,7 @@
       "_top": 0.48000000000000004,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 8,
         "_color": 4343993,
@@ -54243,8 +53749,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -54610,8 +54115,7 @@
       "_top": 0.48000000000000004,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 8,
         "_color": 4343993,
@@ -54977,8 +54481,7 @@
       "_top": 0.48000000000000004,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -55344,8 +54847,7 @@
       "_top": 0.10000001066590082,
       "_bottom": -0.10000001066590082
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 120,
         "_cellType": 2,
         "_color": 4343993,
@@ -55430,8 +54932,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.22,
             "_y": -0.09999999999999999
           },
@@ -55696,8 +55197,7 @@
       "_top": 0.10000001066590082,
       "_bottom": -0.10000001066590082
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 120,
         "_cellType": 2,
         "_color": 4343993,
@@ -55782,8 +55282,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.22,
             "_y": -0.09999999999999999
           },
@@ -56048,8 +55547,7 @@
       "_top": 0.10000001066590082,
       "_bottom": -0.10000001066590082
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 122,
         "_cellType": 2,
         "_color": 4343993,
@@ -56105,8 +55603,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.22,
             "_y": -0.09999999999999999
           },
@@ -56400,8 +55897,7 @@
       "_top": 0.10000001066590082,
       "_bottom": -0.10000001066590082
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 120,
         "_cellType": 2,
         "_color": 4343993,
@@ -56486,8 +55982,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.22,
             "_y": -0.09999999999999999
           },
@@ -56752,8 +56247,7 @@
       "_top": 0.09,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -57029,8 +56523,7 @@
       "_top": 0.09,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -57306,8 +56799,7 @@
       "_top": 0.09,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 122,
         "_cellType": 2,
         "_color": 4343993,
@@ -57641,8 +57133,7 @@
       "_top": 0.12,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 4343993,
@@ -57776,8 +57267,7 @@
       "_top": 0.22,
       "_bottom": -0.09
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 4343993,
@@ -57911,8 +57401,7 @@
       "_top": 0.32000000000000006,
       "_bottom": -0.32000000000000006
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -57939,8 +57428,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.2800000000000001,
             "_y": 0.31999999999999995
           },
@@ -58127,8 +57615,7 @@
       "_top": 0.2397734667961322,
       "_bottom": -0.2397734667961322
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -58236,8 +57723,7 @@
       "_top": 0.4197734667961322,
       "_bottom": -0.40977346679613225
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -58377,8 +57863,7 @@
       "_top": 0.300000007272205,
       "_bottom": -0.300000007272205
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -58550,8 +58035,7 @@
       "_top": 0.300000007272205,
       "_bottom": -0.400000007272205
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -58755,8 +58239,7 @@
       "_top": 0.7100000000000001,
       "_bottom": -0.08
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -59099,8 +58582,7 @@
       "_top": 0.8100000063025777,
       "_bottom": -0.08
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 2,
         "_color": 4343993,
@@ -59475,8 +58957,7 @@
       "_top": 0.280000007272205,
       "_bottom": -0.280000007272205
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -59628,8 +59109,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.1,
             "_y": -0.049999999999999996
           },
@@ -59778,8 +59258,7 @@
       "_top": 0.2,
       "_bottom": -0.13000001745329226
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4343993,
@@ -59806,8 +59285,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.36,
             "_y": -0.12999999999999998
           },
@@ -59927,8 +59405,7 @@
       "_top": 0.13,
       "_bottom": -0.13
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -60004,8 +59481,7 @@
       "_top": 0.37,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -60142,8 +59618,7 @@
       "_top": 0.45,
       "_bottom": -0.46
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -60341,8 +59816,7 @@
       "_top": 0.13,
       "_bottom": -0.13
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -60450,8 +59924,7 @@
       "_top": 0.37,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -60652,8 +60125,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.47000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -60947,8 +60419,7 @@
       "_top": 0.13,
       "_bottom": -0.13
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -61088,8 +60559,7 @@
       "_top": 0.37,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -61354,8 +60824,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.47000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 143,
         "_cellType": 8,
         "_color": 4343993,
@@ -61745,8 +61214,7 @@
       "_top": 0.07,
       "_bottom": -0.07
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -61918,8 +61386,7 @@
       "_top": 0.25,
       "_bottom": -0.25
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -62248,8 +61715,7 @@
       "_top": 0.30000000000000004,
       "_bottom": -0.30000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -62735,8 +62201,7 @@
       "_top": 0.07,
       "_bottom": -0.07
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -62940,8 +62405,7 @@
       "_top": 0.25,
       "_bottom": -0.25
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -63334,8 +62798,7 @@
       "_top": 0.30000000000000004,
       "_bottom": -0.30000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -63917,8 +63380,7 @@
       "_top": 0.07,
       "_bottom": -0.07
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -64154,8 +63616,7 @@
       "_top": 0.25,
       "_bottom": -0.25
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -64612,8 +64073,7 @@
       "_top": 0.30000000000000004,
       "_bottom": -0.30000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -65291,8 +64751,7 @@
       "_top": 0.29000000000000004,
       "_bottom": -0.29000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -66066,8 +65525,7 @@
       "_top": 0.06,
       "_bottom": -0.06
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -66335,8 +65793,7 @@
       "_top": 0.29000000000000004,
       "_bottom": -0.29000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -66857,8 +66314,7 @@
       "_top": 0.49,
       "_bottom": -0.2200000106659007
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -67123,8 +66579,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.36
           },
@@ -67169,8 +66624,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.44
           },
@@ -67235,8 +66689,7 @@
       "_top": 0.18,
       "_bottom": -0.18
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -67367,8 +66820,7 @@
       "_top": 0.23,
       "_bottom": -0.23
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -67586,8 +67038,7 @@
       "_top": 0.18,
       "_bottom": -0.22
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -67643,8 +67094,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.31,
             "_y": 0.1
           },
@@ -67793,8 +67243,7 @@
       "_top": 0.1600000121203418,
       "_bottom": -0.1600000121203418
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -67821,8 +67270,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": -0.15999999999999998
           },
@@ -67968,8 +67416,7 @@
       "_top": 0.1600000121203418,
       "_bottom": -0.1600000121203418
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -67996,8 +67443,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": -0.15999999999999998
           },
@@ -68172,8 +67618,7 @@
       "_top": 0.39,
       "_bottom": -0.44
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -68536,8 +67981,7 @@
       "_top": 0.48,
       "_bottom": -0.48
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 122,
         "_cellType": 2,
         "_color": 4343993,
@@ -68738,8 +68182,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": -0.33
           },
@@ -68842,8 +68285,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0.33
           },
@@ -68992,8 +68434,7 @@
       "_top": 0.2500000121203417,
       "_bottom": -0.2500000121203417
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 131,
         "_cellType": 7,
         "_color": 4343993,
@@ -69127,8 +68568,7 @@
       "_top": 0.36,
       "_bottom": -0.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 135,
         "_cellType": 7,
         "_color": 4343993,
@@ -69378,8 +68818,7 @@
       "_top": 0.14,
       "_bottom": 0
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -69638,8 +69077,7 @@
       "_top": 0.56,
       "_bottom": -0.13
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -69997,8 +69435,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.27,
             "_y": 0.49
           },
@@ -70031,8 +69468,7 @@
       "_top": 0.19,
       "_bottom": -0.19
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -70378,8 +69814,7 @@
       "_top": 0.49,
       "_bottom": -0.19
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -70766,8 +70201,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.41000000000000003,
             "_y": 0.43
           },
@@ -70800,8 +70234,7 @@
       "_top": 0.31,
       "_bottom": -0.05
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 131,
         "_cellType": 7,
         "_color": 4343993,
@@ -71118,8 +70551,7 @@
       "_top": 0.10000001212034187,
       "_bottom": -0.10000001212034187
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -71146,8 +70578,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": -0.10000000000000003
           },
@@ -71192,8 +70623,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.05,
             "_y": -0.03
           },
@@ -71284,8 +70714,7 @@
       "_top": 0.14,
       "_bottom": -0.14
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -71312,8 +70741,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.29,
             "_y": -0.09000000000000002
           },
@@ -71358,8 +70786,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.14,
             "_y": -0.03
           },
@@ -71537,8 +70964,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 105,
         "_cellType": 2,
         "_color": 4343993,
@@ -71669,8 +71095,7 @@
       "_top": 0.35000001696847843,
       "_bottom": -0.35000001696847843
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -71833,8 +71258,7 @@
       "_top": 0.24,
       "_bottom": -0.22
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -72052,8 +71476,7 @@
       "_top": 0.23,
       "_bottom": -0.22
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -72271,8 +71694,7 @@
       "_top": 0.10000000678739142,
       "_bottom": -0.04000000678739142
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -72328,8 +71750,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.14,
             "_y": -0.039999999999999994
           },
@@ -72710,8 +72131,7 @@
       "_top": 0.12,
       "_bottom": -0.12
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -72767,8 +72187,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.31000000000000005,
             "_y": 0.09999999999999998
           },
@@ -73236,8 +72655,7 @@
       "_top": 0.05,
       "_bottom": -0.05
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 105,
         "_cellType": 2,
         "_color": 4343993,
@@ -73322,8 +72740,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 0
           },
@@ -73364,8 +72781,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 0
           },
@@ -73394,8 +72810,7 @@
       "_top": 0.21,
       "_bottom": -0.21
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -73567,8 +72982,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0
           },
@@ -73609,8 +73023,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.11,
             "_y": 0
           },
@@ -73634,37 +73047,35 @@
     "_position": 80,
     "_cellsCount": 1,
     "_width": 0.4,
-    "_lineCells": [
-      {
-        "_position": 80,
-        "_cellType": 2,
-        "_width": 0.4,
-        "_color": 14504,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_offset": 0,
-        "_hasTemplate": 1,
-        "_symbolTemplate": {
-          "_interval": 0.5,
-          "_patternSize": 0,
-          "_patternElements": [],
-          "_position": 72
-        },
-        "_cap": 0,
-        "_join": 8192
-      }
-    ]
+    "_lineCells": [{
+      "_position": 80,
+      "_cellType": 2,
+      "_width": 0.4,
+      "_color": 14504,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_offset": 0,
+      "_hasTemplate": 1,
+      "_symbolTemplate": {
+        "_interval": 0.5,
+        "_patternSize": 0,
+        "_patternElements": [],
+        "_position": 72
+      },
+      "_cap": 0,
+      "_join": 8192
+    }]
   },
   "4260010": {
     "_symbolType": 2,
@@ -73674,31 +73085,29 @@
     "_position": 70,
     "_cellsCount": 1,
     "_width": 0.15,
-    "_lineCells": [
-      {
-        "_position": 70,
-        "_cellType": 2,
-        "_width": 0.15,
-        "_color": 14504,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_offset": 0,
-        "_hasTemplate": -1,
-        "_cap": 512,
-        "_join": 8192
-      }
-    ]
+    "_lineCells": [{
+      "_position": 70,
+      "_cellType": 2,
+      "_width": 0.15,
+      "_color": 14504,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_offset": 0,
+      "_hasTemplate": -1,
+      "_cap": 512,
+      "_join": 8192
+    }]
   },
   "4270010": {
     "_symbolType": 1,
@@ -73713,8 +73122,7 @@
       "_top": 0.23,
       "_bottom": -0.23
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -74051,37 +73459,35 @@
       "_top": 0,
       "_bottom": 0
     },
-    "_pointCells": [
-      {
-        "_position": 109,
-        "_cellType": 2,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_startX": -0.3,
-        "_startY": 0,
-        "_endX": 0.3,
-        "_endY": 0,
-        "_width": 0.02
-      }
-    ]
+    "_pointCells": [{
+      "_position": 109,
+      "_cellType": 2,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_startX": -0.3,
+      "_startY": 0,
+      "_endX": 0.3,
+      "_endY": 0,
+      "_width": 0.02
+    }]
   },
   "4280020": {
     "_symbolType": 1,
@@ -74096,8 +73502,7 @@
       "_top": 0.2,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -74228,8 +73633,7 @@
       "_top": 0.13000000630257777,
       "_bottom": -0.07
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -74328,8 +73732,7 @@
       "_top": 0.36000000000000004,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -74579,8 +73982,7 @@
       "_top": 0.39,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 118,
         "_cellType": 2,
         "_color": 4343993,
@@ -74798,8 +74200,7 @@
       "_top": 0.36,
       "_bottom": -0.28
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 4343993,
@@ -74872,8 +74273,7 @@
       "_top": 0.25,
       "_bottom": -0.25
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 4343993,
@@ -74946,8 +74346,7 @@
       "_top": 0.4,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 126,
         "_cellType": 2,
         "_color": 4343993,
@@ -75020,8 +74419,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -75151,8 +74549,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 118,
         "_cellType": 2,
         "_color": 4343993,
@@ -75225,54 +74622,51 @@
       "_top": 0.4,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
-        "_position": 165,
-        "_cellType": 4,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 165,
+      "_cellType": 4,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 16777215,
+      "_width": 0.02,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -0.4,
+          "_y": 0
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 0.3,
+          "_y": -0.4
         },
-        "_fillStyle": 6,
-        "_fillColor": 16777215,
-        "_width": 0.02,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -0.4,
-            "_y": 0
-          },
-          {
-            "_x": 0.3,
-            "_y": -0.4
-          },
-          {
-            "_x": 0.3,
-            "_y": 0.4
-          },
-          {
-            "_x": -0.4,
-            "_y": 0
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 0.3,
+          "_y": 0.4
+        },
+        {
+          "_x": -0.4,
+          "_y": 0
+        }
+      ]
+    }]
   },
   "4280120": {
     "_symbolType": 1,
@@ -75287,8 +74681,7 @@
       "_top": 0.4,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 2,
         "_color": 4343993,
@@ -75390,8 +74783,7 @@
       "_top": 0.34,
       "_bottom": -0.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -75493,8 +74885,7 @@
       "_top": 0.34,
       "_bottom": -0.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 129,
         "_cellType": 2,
         "_color": 4343993,
@@ -75653,8 +75044,7 @@
       "_top": 0.2,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 2,
         "_color": 4343993,
@@ -75843,8 +75233,7 @@
       "_top": 0.46,
       "_bottom": -0.46
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 167,
         "_cellType": 4,
         "_color": 4343993,
@@ -75871,8 +75260,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.01,
             "_y": -0.46
           },
@@ -75917,8 +75305,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.41000000000000003,
             "_y": -0.23
           },
@@ -75951,8 +75338,7 @@
       "_top": 0.44,
       "_bottom": -0.44
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -76082,8 +75468,7 @@
       "_top": 0.44,
       "_bottom": -0.44
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 129,
         "_cellType": 2,
         "_color": 4343993,
@@ -76387,8 +75772,7 @@
       "_top": 0.2,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 2,
         "_color": 4343993,
@@ -76634,8 +76018,7 @@
       "_top": 0.1300000169684786,
       "_bottom": -0.1300000169684786
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -76662,8 +76045,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.35000000000000003,
             "_y": -0.12999999999999998
           },
@@ -76870,8 +76252,7 @@
       "_top": 0.42,
       "_bottom": -0.42
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -76954,8 +76335,7 @@
         },
         "_width": 0.02,
         "_pointCount": 10,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": -0.42
           },
@@ -77070,8 +76450,7 @@
       "_top": 0.2,
       "_bottom": -0.130000019392547
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -77098,8 +76477,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.4,
             "_y": -0.12999999999999998
           },
@@ -77219,8 +76597,7 @@
       "_top": 0.36,
       "_bottom": -0.2200000106659007
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -77325,8 +76702,7 @@
       "_top": 0.3616997333558491,
       "_bottom": -0.2200000106659007
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -77553,8 +76929,7 @@
       "_top": 0.51,
       "_bottom": -0.2200000106659007
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -77819,8 +77194,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.36
           },
@@ -77865,8 +77239,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.46
           },
@@ -77931,8 +77304,7 @@
       "_top": 0.25,
       "_bottom": -0.19
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -78232,8 +77604,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.32,
             "_y": 0.25
           },
@@ -78266,8 +77637,7 @@
       "_top": 0.130000019392547,
       "_bottom": -0.130000019392547
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4343993,
@@ -78294,8 +77664,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.4,
             "_y": -0.12999999999999998
           },
@@ -78386,8 +77755,7 @@
       "_top": 0.130000019392547,
       "_bottom": -0.130000019392547
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4343993,
@@ -78414,8 +77782,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.4,
             "_y": -0.12999999999999998
           },
@@ -78506,8 +77873,7 @@
       "_top": 0.14,
       "_bottom": -0.18
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -78638,8 +78004,7 @@
       "_top": 0.3,
       "_bottom": -0.18
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -78770,8 +78135,7 @@
       "_top": 0.42,
       "_bottom": -0.42
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -78798,8 +78162,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.42,
             "_y": 0.42
           },
@@ -78900,8 +78263,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0
           },
@@ -78999,8 +78361,7 @@
       "_top": 0.13919594841346372,
       "_bottom": -0.019195948413463712
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 108,
         "_cellType": 2,
         "_color": 4343993,
@@ -79259,8 +78620,7 @@
       "_top": 0.1300000000000001,
       "_bottom": -0.1300000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -79287,8 +78647,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.4,
             "_y": 0.12999999999999992
           },
@@ -79391,8 +78750,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 5,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.22,
             "_y": 0.01
           },
@@ -79429,8 +78787,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 168,
@@ -79484,8 +78841,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.3
           },
@@ -79524,8 +78880,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.1,
             "_y": 0.3
           },
@@ -79554,8 +78909,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 168,
@@ -79609,8 +78963,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.05,
             "_y": 0.3
           },
@@ -79649,8 +79002,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.1,
             "_y": 0.3
           },
@@ -79679,8 +79031,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 168,
@@ -79734,8 +79085,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.3
           },
@@ -79774,8 +79124,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.1,
             "_y": 0.3
           },
@@ -79804,8 +79153,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 168,
@@ -79859,8 +79207,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.1,
             "_y": 0.3
           },
@@ -79899,8 +79246,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.05,
             "_y": 0.3
           },
@@ -79929,8 +79275,7 @@
       "_top": 0.2397734667961322,
       "_bottom": -0.2397734667961322
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 8,
         "_color": 4343993,
@@ -80067,8 +79412,7 @@
       "_top": 0.15,
       "_bottom": -0.15
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 174,
         "_cellType": 4,
         "_color": 4343993,
@@ -80095,8 +79439,7 @@
         "_fillColor": 4294967295,
         "_width": 0.01,
         "_pointCount": 5,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.3,
             "_y": 0
           },
@@ -80162,8 +79505,7 @@
       "_top": 0.48,
       "_bottom": -0.48
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 9,
         "_color": 4343993,
@@ -80190,8 +79532,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.38,
             "_y": 0.38
           },
@@ -80292,8 +79633,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0
           },
@@ -80372,8 +79712,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0.24
           },
@@ -80481,8 +79820,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": -0.24
           },
@@ -80580,8 +79918,7 @@
       "_top": 0.48,
       "_bottom": -0.48
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 168,
         "_cellType": 9,
         "_color": 4343993,
@@ -80608,8 +79945,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.32,
             "_y": 0.32
           },
@@ -80758,8 +80094,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.41000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 134,
         "_cellType": 8,
         "_color": 4343993,
@@ -81168,8 +80503,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.17,
             "_y": 0.39
           },
@@ -81202,8 +80536,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 136,
         "_cellType": 8,
         "_color": 4343993,
@@ -81439,8 +80772,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.12,
             "_y": 0
           },
@@ -81514,8 +80846,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.19,
             "_y": 0.39
           },
@@ -81548,8 +80879,7 @@
       "_top": 0.1716997333558491,
       "_bottom": -0.13
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -81666,8 +80996,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.039999999999999994,
             "_y": 0.12
           },
@@ -81773,8 +81102,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.33,
             "_y": -0.12
           },
@@ -81844,8 +81172,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.41000000000000003,
             "_y": -0.12
           },
@@ -81874,8 +81201,7 @@
       "_top": 0.15,
       "_bottom": -0.15
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 135,
         "_cellType": 4,
         "_color": 168,
@@ -81902,8 +81228,7 @@
         "_fillColor": 4294967295,
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": -0.15
           },
@@ -81961,8 +81286,7 @@
       "_top": 0.48,
       "_bottom": -0.48
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -81989,8 +81313,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.38,
             "_y": 0.38
           },
@@ -82091,8 +81414,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0
           },
@@ -82171,8 +81493,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0.24
           },
@@ -82251,8 +81572,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": -0.24
           },
@@ -82321,8 +81641,7 @@
       "_top": 0.22000001454441015,
       "_bottom": -0.18000001454441017
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -82378,8 +81697,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": -0.18
           },
@@ -82760,8 +82078,7 @@
       "_top": 0.20000001454441016,
       "_bottom": -0.20000001454441016
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -82904,8 +82221,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": -0.19999999999999998
           },
@@ -82938,8 +82254,7 @@
       "_top": 0.20000001454441016,
       "_bottom": -0.20000001454441016
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4343993,
@@ -82966,8 +82281,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": -0.19999999999999998
           },
@@ -83041,8 +82355,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.16,
             "_y": -0.07999999999999999
           },
@@ -83423,8 +82736,7 @@
       "_top": 0.36,
       "_bottom": -0.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -83451,8 +82763,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.36,
             "_y": 0.36
           },
@@ -83553,8 +82864,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0
           },
@@ -83662,8 +82972,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0.19
           },
@@ -83742,8 +83051,7 @@
         },
         "_width": 0.02,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": -0.18
           },
@@ -83812,8 +83120,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4343993,
@@ -83840,8 +83147,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1500000000000001,
             "_y": 1.02
           },
@@ -83967,8 +83273,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4343993,
@@ -83995,8 +83300,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.25,
             "_y": 1.25
           },
@@ -84129,8 +83433,7 @@
         },
         "_width": 0.15,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 0
           },
@@ -84199,8 +83502,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -84227,8 +83529,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -84316,8 +83617,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -84344,8 +83644,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -84433,8 +83732,7 @@
       "_top": 1.45,
       "_bottom": -1.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -84520,8 +83818,7 @@
         },
         "_width": 0.13,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": -0.96
           },
@@ -84564,8 +83861,7 @@
         },
         "_width": 0.13,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.45,
             "_y": -0.05
           },
@@ -84620,8 +83916,7 @@
         },
         "_width": 0.13,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.4,
             "_y": -0.2
           },
@@ -84666,8 +83961,7 @@
       "_top": 0.44,
       "_bottom": -0.47000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -84694,8 +83988,7 @@
         "_fillColor": 4294967295,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.35000000000000003,
             "_y": 0.31
           },
@@ -84841,8 +84134,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 112,
         "_cellType": 2,
         "_color": 255,
@@ -85115,8 +84407,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 112,
         "_cellType": 2,
         "_color": 49407,
@@ -85389,8 +84680,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 112,
         "_cellType": 2,
         "_color": 65535,
@@ -85663,8 +84953,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 112,
         "_cellType": 2,
         "_color": 12611584,
@@ -85937,8 +85226,7 @@
       "_top": 1.4000000000000001,
       "_bottom": -1.35
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 6710989,
@@ -85965,8 +85253,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.54,
             "_y": 1.2000000000000002
           },
@@ -86011,8 +85298,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 9,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.78,
             "_y": 1.4000000000000001
           },
@@ -86135,8 +85421,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.35,
             "_y": 1.04
           },
@@ -86181,8 +85466,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.35,
             "_y": 0.7500000000000001
           },
@@ -86227,8 +85511,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.35,
             "_y": 0.42
           },
@@ -86261,8 +85544,7 @@
       "_top": 1.55,
       "_bottom": -1.4
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 6710989,
@@ -86289,8 +85571,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5900000000000001,
             "_y": 0.37
           },
@@ -86393,8 +85674,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.81,
             "_y": 0.6
           },
@@ -86437,8 +85717,7 @@
         },
         "_width": 0.2,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 0.7000000000000001
           },
@@ -86477,8 +85756,7 @@
         },
         "_width": 0.2,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.25,
             "_y": 0.45
           },
@@ -86519,8 +85797,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": 0.22000000000000003
           },
@@ -86565,8 +85842,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": -0.020000000000000004
           },
@@ -86611,8 +85887,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": -0.26
           },
@@ -86645,8 +85920,7 @@
       "_top": 1.36,
       "_bottom": -1.3800000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -86673,8 +85947,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4200000000000002,
             "_y": 0.8200000000000001
           },
@@ -86994,8 +86267,7 @@
       "_top": 1.4000000000000001,
       "_bottom": -1.35
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 6710989,
@@ -87022,8 +86294,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.8,
             "_y": 1.08
           },
@@ -87068,8 +86339,7 @@
         "_fillColor": 6710989,
         "_width": 0.05,
         "_pointCount": 14,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.14,
             "_y": 0.96
           },
@@ -87154,8 +86424,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 8,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.65,
             "_y": -0.1
           },
@@ -87216,8 +86485,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 9,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.05,
             "_y": 1.4000000000000001
           },
@@ -87270,8 +86538,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -87544,8 +86811,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -87818,8 +87084,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -88092,8 +87357,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -88366,8 +87630,7 @@
       "_top": 1.5,
       "_bottom": -1.35
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 3,
         "_color": 6710989,
@@ -88392,8 +87655,7 @@
         },
         "_width": 0.15,
         "_pointCount": 2,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1,
             "_y": 0.05
           },
@@ -88430,8 +87692,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.79,
             "_y": -0.45
           },
@@ -88476,8 +87737,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 6,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1500000000000001,
             "_y": 0.6
           },
@@ -88562,8 +87822,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.37,
             "_y": -0.45
           },
@@ -88608,8 +87867,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 6,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.01,
             "_y": 0.6
           },
@@ -88692,8 +87950,7 @@
         },
         "_width": 0.15,
         "_pointCount": 2,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1,
             "_y": 0.05
           },
@@ -88728,8 +87985,7 @@
         },
         "_width": 0.15,
         "_pointCount": 2,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1,
             "_y": -0.2
           },
@@ -88766,8 +88022,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.79,
             "_y": -0.45
           },
@@ -88812,8 +88067,7 @@
         "_fillColor": 16777215,
         "_width": 0.15,
         "_pointCount": 6,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1500000000000001,
             "_y": 0.6
           },
@@ -88864,8 +88118,7 @@
         },
         "_width": 0.15,
         "_pointCount": 5,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.35,
             "_y": 0.75
           },
@@ -88902,8 +88155,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -89176,8 +88428,7 @@
       "_top": 0.45000000000000007,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 16740352,
@@ -89314,8 +88565,7 @@
       "_top": 0.45000000000000007,
       "_bottom": -0.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 59110,
@@ -89452,8 +88702,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -89480,8 +88729,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -89611,8 +88859,7 @@
         "_fillColor": 6842472,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.11,
             "_y": 1.2
           },
@@ -89790,8 +89037,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -90021,8 +89267,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 5,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.44,
             "_y": 0.6
           },
@@ -90059,8 +89304,7 @@
       "_top": 1.45,
       "_bottom": -1.49
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -90087,8 +89331,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 0.95
           },
@@ -90205,8 +89448,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -90233,8 +89475,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 0.88
           },
@@ -90308,8 +89549,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.3,
             "_y": -1.05
           },
@@ -90354,8 +89594,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6000000000000001,
             "_y": -1.05
           },
@@ -90400,8 +89639,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.10000000000000003,
             "_y": -1.05
           },
@@ -90446,8 +89684,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.8,
             "_y": -1.05
           },
@@ -90480,8 +89717,7 @@
       "_top": 1.45,
       "_bottom": -1.4100000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -90508,8 +89744,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.3599999999999999,
             "_y": -1.15
           },
@@ -90581,8 +89816,7 @@
         },
         "_width": 0.1,
         "_pointCount": 10,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.04,
             "_y": 1.25
           },
@@ -90678,8 +89912,7 @@
         },
         "_width": 0.1,
         "_pointCount": 10,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.04,
             "_y": 0.24
           },
@@ -90736,8 +89969,7 @@
       "_top": 1.5,
       "_bottom": -1.4315432893255071
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -90764,8 +89996,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.16845671067449286,
             "_y": -0.17000000000000012
           },
@@ -90810,8 +90041,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.5515432893255071,
             "_y": 0.57
           },
@@ -90856,8 +90086,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.5515432893255071,
             "_y": -0.8800000000000001
           },
@@ -90902,8 +90131,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.271543289325507,
             "_y": -0.17000000000000012
           },
@@ -90965,8 +90193,7 @@
       "_top": 1.5,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4343993,
@@ -91329,8 +90556,7 @@
       "_top": 1.22,
       "_bottom": -1.4000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 193,
         "_cellType": 3,
         "_color": 6710989,
@@ -91355,8 +90581,7 @@
         },
         "_width": 0.1,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.35,
             "_y": 0.4
           },
@@ -91411,8 +90636,7 @@
         },
         "_width": 0.1,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.8,
             "_y": 0.9500000000000001
           },
@@ -91467,8 +90691,7 @@
         },
         "_width": 0.1,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.01,
             "_y": 0.9500000000000001
           },
@@ -91523,8 +90746,7 @@
         },
         "_width": 0.1,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.8,
             "_y": 0.9500000000000001
           },
@@ -91610,8 +90832,7 @@
         "_fillColor": 44851104,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.01,
             "_y": -0.55
           },
@@ -91656,8 +90877,7 @@
         "_fillColor": 44851104,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.18,
             "_y": -0.55
           },
@@ -91702,8 +90922,7 @@
         "_fillColor": 44851104,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.6200000000000001,
             "_y": -0.55
           },
@@ -91832,8 +91051,7 @@
       "_top": 1.49,
       "_bottom": -1.1500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 4,
         "_color": 4343993,
@@ -91860,8 +91078,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 1.49
           },
@@ -91949,8 +91166,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -91977,8 +91193,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -92139,8 +91354,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -92167,8 +91381,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -92256,8 +91469,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -92284,8 +91496,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -92330,8 +91541,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.51869432796804,
             "_y": 1.157524135457581
           },
@@ -92376,8 +91586,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": -0.9
           },
@@ -92555,8 +91764,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -92583,8 +91791,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -92629,8 +91836,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.1,
             "_y": 0.77
           },
@@ -92673,8 +91879,7 @@
         },
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.05,
             "_y": 0.72
           },
@@ -92707,8 +91912,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -92735,8 +91939,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -92926,8 +92129,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4,
             "_y": 1.04
           },
@@ -92972,8 +92174,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4,
             "_y": 0.54
           },
@@ -93018,8 +92219,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4,
             "_y": -0.010000000000000009
           },
@@ -93064,8 +92264,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4,
             "_y": -0.42000000000000004
           },
@@ -93110,8 +92309,7 @@
         "_fillColor": 6710989,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4,
             "_y": -0.84
           },
@@ -93144,8 +92342,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -93172,8 +92369,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -93366,8 +92562,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -93394,8 +92589,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -93440,8 +92634,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 1
           },
@@ -93529,8 +92722,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -93641,8 +92833,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -93669,8 +92860,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -93715,8 +92905,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 1
           },
@@ -93804,8 +92993,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -93832,8 +93020,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -93878,8 +93065,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 1
           },
@@ -93967,8 +93153,7 @@
       "_top": 0.8,
       "_bottom": -0.8
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -94114,8 +93299,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.24,
             "_y": 0.35000000000000003
           },
@@ -94160,8 +93344,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.18,
             "_y": 0.2
           },
@@ -94194,40 +93377,38 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 125,
-        "_cellType": 8,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 4343993,
-        "_width": 0.15,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 1.5,
-        "_shortAxis": 1.5,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 125,
+      "_cellType": 8,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4343993,
+      "_width": 0.15,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 1.5,
+      "_shortAxis": 1.5,
+      "_angle": 0
+    }]
   },
   "6030020": {
     "_symbolType": 1,
@@ -94242,8 +93423,7 @@
       "_top": 1.06,
       "_bottom": -1.07
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -94401,28 +93581,26 @@
     "_position": 58,
     "_cellsCount": 1,
     "_width": 0.12,
-    "_lineCells": [
-      {
-        "_position": 58,
-        "_cellType": 0,
-        "_width": 0.12,
-        "_color": 14504,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_simpleLineStyle": 4
-      }
-    ]
+    "_lineCells": [{
+      "_position": 58,
+      "_cellType": 0,
+      "_width": 0.12,
+      "_color": 14504,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_simpleLineStyle": 4
+    }]
   },
   "6050010": {
     "_symbolType": 1,
@@ -94437,58 +93615,55 @@
       "_top": 1,
       "_bottom": -1
     },
-    "_pointCells": [
-      {
-        "_position": 173,
-        "_cellType": 4,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 173,
+      "_cellType": 4,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4343993,
+      "_width": 0.01,
+      "_pointCount": 5,
+      "_points": [{
+          "_x": 1.5,
+          "_y": 0
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 0,
+          "_y": 1
         },
-        "_fillStyle": 7,
-        "_fillColor": 4343993,
-        "_width": 0.01,
-        "_pointCount": 5,
-        "_points": [
-          {
-            "_x": 1.5,
-            "_y": 0
-          },
-          {
-            "_x": 0,
-            "_y": 1
-          },
-          {
-            "_x": -1.5,
-            "_y": 0
-          },
-          {
-            "_x": 0,
-            "_y": -1
-          },
-          {
-            "_x": 1.5,
-            "_y": 0
-          }
-        ]
-      }
-    ]
+        {
+          "_x": -1.5,
+          "_y": 0
+        },
+        {
+          "_x": 0,
+          "_y": -1
+        },
+        {
+          "_x": 1.5,
+          "_y": 0
+        }
+      ]
+    }]
   },
   "6060010": {
     "_symbolType": 1,
@@ -94503,8 +93678,7 @@
       "_top": 0.99,
       "_bottom": -1.01
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -94531,8 +93705,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 0.99
           },
@@ -94623,8 +93796,7 @@
       "_top": 0.99,
       "_bottom": -1.01
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -94651,8 +93823,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 0.99
           },
@@ -94888,8 +94059,7 @@
       "_top": 0.99,
       "_bottom": -1.01
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -94916,8 +94086,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 0.99
           },
@@ -95298,8 +94467,7 @@
       "_top": 0.8,
       "_bottom": -0.8
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -95326,8 +94494,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.23,
             "_y": 0.8
           },
@@ -95500,8 +94667,7 @@
     "_position": 225,
     "_cellsCount": 3,
     "_width": 1,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 68,
         "_cellType": 2,
         "_width": 0.15,
@@ -95547,57 +94713,52 @@
         "_symbolTemplate": {
           "_interval": 2,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 0
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 0
+          }],
           "_position": 116
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 189,
-            "_cellType": 3,
-            "_color": 14504,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
+        "_pointCells": [{
+          "_position": 189,
+          "_cellType": 3,
+          "_color": 14504,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_width": 0.1,
+          "_pointCount": 3,
+          "_points": [{
+              "_x": -1,
+              "_y": 0.42857142857142855
             },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
+            {
+              "_x": 0,
+              "_y": 0
             },
-            "_width": 0.1,
-            "_pointCount": 3,
-            "_points": [
-              {
-                "_x": -1,
-                "_y": 0.42857142857142855
-              },
-              {
-                "_x": 0,
-                "_y": 0
-              },
-              {
-                "_x": -1,
-                "_y": -0.42857142857142855
-              }
-            ]
-          }
-        ]
+            {
+              "_x": -1,
+              "_y": -0.42857142857142855
+            }
+          ]
+        }]
       },
       {
         "_position": 225,
@@ -95632,8 +94793,7 @@
     "_position": 254,
     "_cellsCount": 3,
     "_width": 1,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 68,
         "_cellType": 2,
         "_width": 0.18,
@@ -95679,17 +94839,14 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 1
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 1
+          }],
           "_position": 116
         },
         "_pointCellsCount": 2,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 169,
             "_cellType": 2,
             "_color": 168,
@@ -95782,8 +94939,7 @@
     "_position": 454,
     "_cellsCount": 3,
     "_width": 1,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 72,
         "_cellType": 2,
         "_width": 0.15,
@@ -95829,17 +94985,14 @@
         "_symbolTemplate": {
           "_interval": 1,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 1
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 1
+          }],
           "_position": 120
         },
         "_pointCellsCount": 6,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 173,
             "_cellType": 2,
             "_color": 168,
@@ -96048,8 +95201,7 @@
     "_position": 256,
     "_cellsCount": 3,
     "_width": 1,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 70,
         "_cellType": 2,
         "_width": 0.2,
@@ -96095,17 +95247,14 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 3
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 3
+          }],
           "_position": 118
         },
         "_pointCellsCount": 2,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 171,
             "_cellType": 2,
             "_color": 4343993,
@@ -96198,8 +95347,7 @@
     "_position": 257,
     "_cellsCount": 5,
     "_width": 2,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 72,
         "_cellType": 2,
         "_width": 0.2,
@@ -96266,37 +95414,35 @@
         "_endType": 3,
         "_directionType": 3,
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 185,
-            "_cellType": 2,
-            "_color": 4343993,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
-            },
-            "_startX": 0,
-            "_startY": 1,
-            "_endX": 0,
-            "_endY": -1,
-            "_width": 0.2
-          }
-        ]
+        "_pointCells": [{
+          "_position": 185,
+          "_cellType": 2,
+          "_color": 4343993,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_startX": 0,
+          "_startY": 1,
+          "_endX": 0,
+          "_endY": -1,
+          "_width": 0.2
+        }]
       },
       {
         "_position": 221,
@@ -96354,8 +95500,7 @@
     "_position": 323,
     "_cellsCount": 5,
     "_width": 0.8,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 70,
         "_cellType": 2,
         "_width": 0.12,
@@ -96424,63 +95569,58 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 7
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 7
+          }],
           "_position": 154
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 251,
-            "_cellType": 9,
-            "_color": 168,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
+        "_pointCells": [{
+          "_position": 251,
+          "_cellType": 9,
+          "_color": 168,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_fillStyle": 7,
+          "_fillColor": 168,
+          "_width": 0.1,
+          "_pointCount": 4,
+          "_points": [{
+              "_x": 0.24000000000000027,
+              "_y": 0.3999999999999999
             },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
+            {
+              "_x": 0.2400000000000001,
+              "_y": -0.4
             },
-            "_fillStyle": 7,
-            "_fillColor": 168,
-            "_width": 0.1,
-            "_pointCount": 4,
-            "_points": [
-              {
-                "_x": 0.24000000000000027,
-                "_y": 0.3999999999999999
-              },
-              {
-                "_x": 0.2400000000000001,
-                "_y": -0.4
-              },
-              {
-                "_x": -0.24000000000000027,
-                "_y": -0.3999999999999999
-              },
-              {
-                "_x": -0.2400000000000001,
-                "_y": 0.4
-              }
-            ]
-          }
-        ]
+            {
+              "_x": -0.24000000000000027,
+              "_y": -0.3999999999999999
+            },
+            {
+              "_x": -0.2400000000000001,
+              "_y": 0.4
+            }
+          ]
+        }]
       },
       {
         "_position": 287,
@@ -96543,8 +95683,7 @@
       "_top": 0.9500000000000001,
       "_bottom": -1.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -96745,8 +95884,7 @@
         "_fillColor": 20639,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6,
             "_y": -0.32000000000000006
           },
@@ -96895,8 +96033,7 @@
       "_top": 0.91,
       "_bottom": -0.91
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 111,
         "_cellType": 2,
         "_color": 4343993,
@@ -97317,8 +96454,7 @@
       "_top": 0.55,
       "_bottom": -0.55
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -97487,8 +96623,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 8,
         "_color": 4343993,
@@ -97651,8 +96786,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 112,
         "_cellType": 2,
         "_color": 4343993,
@@ -97795,8 +96929,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -97829,8 +96962,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -98048,8 +97180,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -98076,8 +97207,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -98487,8 +97617,7 @@
       "_top": 1.8,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -98703,8 +97832,7 @@
       "_top": 1.5198655206212737,
       "_bottom": -1.5198655206212737
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -98806,40 +97934,38 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 125,
-        "_cellType": 8,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 6,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 1.5,
-        "_shortAxis": 1.5,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 125,
+      "_cellType": 8,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 1.5,
+      "_shortAxis": 1.5,
+      "_angle": 0
+    }]
   },
   "7110030": {
     "_symbolType": 1,
@@ -98854,8 +97980,7 @@
       "_top": 1.5000000000000002,
       "_bottom": -1.5000000000000002
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -98960,8 +98085,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -99095,8 +98219,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -99230,8 +98353,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 8,
         "_color": 4343993,
@@ -99310,8 +98432,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -99561,8 +98682,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -99696,8 +98816,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -99886,8 +99005,7 @@
       "_top": 0.85,
       "_bottom": -0.79
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 222,
         "_cellType": 4,
         "_color": 4343993,
@@ -99914,8 +99032,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 8,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.9400000000000001,
             "_y": 0.33
           },
@@ -99976,8 +99093,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 5,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.1500000000000001,
             "_y": 0.85
           },
@@ -100026,8 +99142,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 9,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.9,
             "_y": -0.48
           },
@@ -100196,8 +99311,7 @@
       "_top": 1.1,
       "_bottom": -0.9500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 9,
         "_color": 4343993,
@@ -100224,8 +99338,7 @@
         "_fillColor": 4343993,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.75,
             "_y": 0.69
           },
@@ -100268,8 +99381,7 @@
         },
         "_width": 0.1,
         "_pointCount": 16,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.8,
             "_y": 0.25
           },
@@ -100350,8 +99462,7 @@
       "_top": 1,
       "_bottom": -0.6000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 130,
         "_cellType": 8,
         "_color": 4343993,
@@ -100442,8 +99553,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 0.5
           },
@@ -100476,8 +99586,7 @@
       "_top": 1.2,
       "_bottom": -2.05
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 178,
         "_cellType": 13,
         "_color": 4343993,
@@ -100557,8 +99666,7 @@
         },
         "_width": 0.1,
         "_pointCount": 10,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.9500000000000001,
             "_y": 0.5
           },
@@ -100709,8 +99817,7 @@
         },
         "_width": 0.1,
         "_pointCount": 2,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.85,
             "_y": -1
           },
@@ -100777,8 +99884,7 @@
         },
         "_width": 0.1,
         "_pointCount": 2,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.84,
             "_y": -1.04
           },
@@ -100813,8 +99919,7 @@
         },
         "_width": 0.1,
         "_pointCount": 2,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.9400000000000001,
             "_y": -1
           },
@@ -100839,8 +99944,7 @@
       "_top": 0.87,
       "_bottom": -0.89
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 130,
         "_cellType": 8,
         "_color": 4343993,
@@ -100974,8 +100078,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 154,
         "_cellType": 9,
         "_color": 4343993,
@@ -101002,8 +100105,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -101046,8 +100148,7 @@
         },
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.71,
             "_y": 0
           },
@@ -101104,8 +100205,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6900000000000001,
             "_y": 0.81
           },
@@ -101150,8 +100250,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.05,
             "_y": 0.97
           },
@@ -101196,8 +100295,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.6900000000000001,
             "_y": 0.81
           },
@@ -101242,8 +100340,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.9400000000000001,
             "_y": -0.05
           },
@@ -101288,8 +100385,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.9400000000000001,
             "_y": -0.05
           },
@@ -101332,8 +100428,7 @@
         },
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.71,
             "_y": 0
           },
@@ -101388,8 +100483,7 @@
         },
         "_width": 0.15,
         "_pointCount": 7,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.72,
             "_y": -0.01
           },
@@ -101446,8 +100540,7 @@
         "_fillColor": 4343993,
         "_width": 0.15,
         "_pointCount": 5,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.23,
             "_y": -0.9
           },
@@ -101496,8 +100589,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.6900000000000001,
             "_y": -0.74
           },
@@ -101542,8 +100634,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.6900000000000001,
             "_y": -0.74
           },
@@ -101576,98 +100667,95 @@
       "_top": 0.8,
       "_bottom": -0.8
     },
-    "_pointCells": [
-      {
-        "_position": 336,
-        "_cellType": 4,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 336,
+      "_cellType": 4,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 16777215,
+      "_width": 0.1,
+      "_pointCount": 15,
+      "_points": [{
+          "_x": 0,
+          "_y": 0.8
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": -0.4,
+          "_y": 0.8
         },
-        "_fillStyle": 6,
-        "_fillColor": 16777215,
-        "_width": 0.1,
-        "_pointCount": 15,
-        "_points": [
-          {
-            "_x": 0,
-            "_y": 0.8
-          },
-          {
-            "_x": -0.4,
-            "_y": 0.8
-          },
-          {
-            "_x": -0.7000000000000001,
-            "_y": 0.5
-          },
-          {
-            "_x": -1.1500000000000001,
-            "_y": 0.5
-          },
-          {
-            "_x": -1.1500000000000001,
-            "_y": -0.5
-          },
-          {
-            "_x": -0.7000000000000001,
-            "_y": -0.5
-          },
-          {
-            "_x": -0.4,
-            "_y": -0.8
-          },
-          {
-            "_x": -0.05,
-            "_y": -0.8
-          },
-          {
-            "_x": 0.4,
-            "_y": -0.8
-          },
-          {
-            "_x": 0.65,
-            "_y": -0.55
-          },
-          {
-            "_x": 1.1,
-            "_y": -0.55
-          },
-          {
-            "_x": 1.1,
-            "_y": 0.5
-          },
-          {
-            "_x": 0.65,
-            "_y": 0.5
-          },
-          {
-            "_x": 0.35000000000000003,
-            "_y": 0.8
-          },
-          {
-            "_x": 0.05,
-            "_y": 0.8
-          }
-        ]
-      }
-    ]
+        {
+          "_x": -0.7000000000000001,
+          "_y": 0.5
+        },
+        {
+          "_x": -1.1500000000000001,
+          "_y": 0.5
+        },
+        {
+          "_x": -1.1500000000000001,
+          "_y": -0.5
+        },
+        {
+          "_x": -0.7000000000000001,
+          "_y": -0.5
+        },
+        {
+          "_x": -0.4,
+          "_y": -0.8
+        },
+        {
+          "_x": -0.05,
+          "_y": -0.8
+        },
+        {
+          "_x": 0.4,
+          "_y": -0.8
+        },
+        {
+          "_x": 0.65,
+          "_y": -0.55
+        },
+        {
+          "_x": 1.1,
+          "_y": -0.55
+        },
+        {
+          "_x": 1.1,
+          "_y": 0.5
+        },
+        {
+          "_x": 0.65,
+          "_y": 0.5
+        },
+        {
+          "_x": 0.35000000000000003,
+          "_y": 0.8
+        },
+        {
+          "_x": 0.05,
+          "_y": 0.8
+        }
+      ]
+    }]
   },
   "7200010": {
     "_symbolType": 1,
@@ -101682,8 +100770,7 @@
       "_top": 1.1400000000000001,
       "_bottom": -1.1600000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 8,
         "_color": 4343993,
@@ -101846,8 +100933,7 @@
       "_top": 1.1,
       "_bottom": -0.95
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 146,
         "_cellType": 11,
         "_color": 4343993,
@@ -101908,8 +100994,7 @@
         "_fillColor": 4343993,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.3,
             "_y": 0.27
           },
@@ -101954,8 +101039,7 @@
         "_fillColor": 4343993,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.49,
             "_y": 0.5900000000000001
           },
@@ -101988,8 +101072,7 @@
       "_top": 0.77,
       "_bottom": -0.74
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 144,
         "_cellType": 10,
         "_color": 4343993,
@@ -102106,8 +101189,7 @@
       "_top": 0.5900000000000001,
       "_bottom": -0.55
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 112,
         "_cellType": 2,
         "_color": 4343993,
@@ -102331,8 +101413,7 @@
       "_top": 0.8500000000000001,
       "_bottom": -1.01
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 126,
         "_cellType": 8,
         "_color": 4343993,
@@ -102523,8 +101604,7 @@
       "_top": 1.01,
       "_bottom": -0.99
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 132,
         "_cellType": 8,
         "_color": 4343993,
@@ -102757,8 +101837,7 @@
         "_fillColor": 14803425,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 0.15
           },
@@ -102803,8 +101882,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.4,
             "_y": 0.1
           },
@@ -103011,8 +102089,7 @@
       "_top": 0.51,
       "_bottom": -1.01
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 164,
         "_cellType": 9,
         "_color": 4343993,
@@ -103039,8 +102116,7 @@
         "_fillColor": 4343993,
         "_width": 0.3,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.22999999999999998,
             "_y": 0.51
           },
@@ -103085,8 +102161,7 @@
         "_fillColor": 4343993,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.75,
             "_y": 0.25
           },
@@ -103131,8 +102206,7 @@
         "_fillColor": 4343993,
         "_width": 0.05,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.1,
             "_y": -0.27
           },
@@ -103220,8 +102294,7 @@
       "_top": 1.1,
       "_bottom": -1.08
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 116,
         "_cellType": 2,
         "_color": 4343993,
@@ -103538,8 +102611,7 @@
       "_top": 0.86,
       "_bottom": -0.84
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 150,
         "_cellType": 10,
         "_color": 4343993,
@@ -103668,8 +102740,7 @@
         "_fillColor": 4343993,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.9600000000000001,
             "_y": 0.86
           },
@@ -103702,8 +102773,7 @@
       "_top": 1,
       "_bottom": -0.98
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 114,
         "_cellType": 2,
         "_color": 4343993,
@@ -104049,8 +103119,7 @@
         "_fillColor": 0,
         "_width": 0.03,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.03,
             "_y": 1
           },
@@ -104083,8 +103152,7 @@
       "_top": 0.92,
       "_bottom": -0.92
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 164,
         "_cellType": 9,
         "_color": 4343993,
@@ -104111,8 +103179,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.49,
             "_y": 0.92
           },
@@ -104157,8 +103224,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.49,
             "_y": 0.58
           },
@@ -104201,8 +103267,7 @@
         },
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 0.3
           },
@@ -104247,8 +103312,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.49,
             "_y": -0.6
           },
@@ -104281,8 +103345,7 @@
       "_top": 0.9500000000000001,
       "_bottom": -0.79
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 120,
         "_cellType": 2,
         "_color": 4343993,
@@ -104338,8 +103401,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.12,
             "_y": 0.65
           },
@@ -104610,8 +103672,7 @@
       "_top": 0.3990600287621886,
       "_bottom": -0.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 3,
         "_color": 4343993,
@@ -104636,8 +103697,7 @@
         },
         "_width": 0.05,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.8,
             "_y": 0.15
           },
@@ -105204,8 +104264,7 @@
       "_top": 0.9,
       "_bottom": -0.72
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 168,
         "_cellType": 9,
         "_color": 4343993,
@@ -105232,8 +104291,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.11,
             "_y": 0.65
           },
@@ -105459,37 +104517,33 @@
     "_symbolName": "a级污秽区",
     "_drawMode": 13,
     "_position": 61,
-    "_fillCells": [
-      {
-        "_position": 61,
+    "_fillCells": [{
+      "_position": 61,
+      "_cellType": 0,
+      "_color": 4294967295,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 57,
         "_cellType": 0,
+        "_width": 0.15,
         "_color": 4294967295,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 57,
-            "_cellType": 0,
-            "_width": 0.15,
-            "_color": 4294967295,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "8010020": {
     "_symbolType": 3,
@@ -105497,37 +104551,33 @@
     "_symbolName": "b级污秽区",
     "_drawMode": 13,
     "_position": 61,
-    "_fillCells": [
-      {
-        "_position": 61,
+    "_fillCells": [{
+      "_position": 61,
+      "_cellType": 0,
+      "_color": 16711680,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 57,
         "_cellType": 0,
-        "_color": 16711680,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 57,
-            "_cellType": 0,
-            "_width": 0.15,
-            "_color": 4294967295,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_width": 0.15,
+        "_color": 4294967295,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "8010030": {
     "_symbolType": 3,
@@ -105535,37 +104585,33 @@
     "_symbolName": "c级污秽区",
     "_drawMode": 13,
     "_position": 61,
-    "_fillCells": [
-      {
-        "_position": 61,
+    "_fillCells": [{
+      "_position": 61,
+      "_cellType": 0,
+      "_color": 49407,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 57,
         "_cellType": 0,
-        "_color": 49407,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 57,
-            "_cellType": 0,
-            "_width": 0.15,
-            "_color": 4294967295,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_width": 0.15,
+        "_color": 4294967295,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "8010040": {
     "_symbolType": 3,
@@ -105573,37 +104619,33 @@
     "_symbolName": "d级污秽区",
     "_drawMode": 13,
     "_position": 61,
-    "_fillCells": [
-      {
-        "_position": 61,
+    "_fillCells": [{
+      "_position": 61,
+      "_cellType": 0,
+      "_color": 65280,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 57,
         "_cellType": 0,
-        "_color": 65280,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 57,
-            "_cellType": 0,
-            "_width": 0.15,
-            "_color": 4294967295,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_width": 0.15,
+        "_color": 4294967295,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "8010050": {
     "_symbolType": 3,
@@ -105611,37 +104653,33 @@
     "_symbolName": "e级污秽区",
     "_drawMode": 13,
     "_position": 61,
-    "_fillCells": [
-      {
-        "_position": 61,
+    "_fillCells": [{
+      "_position": 61,
+      "_cellType": 0,
+      "_color": 255,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 57,
         "_cellType": 0,
-        "_color": 255,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 57,
-            "_cellType": 0,
-            "_width": 0.15,
-            "_color": 4294967295,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_width": 0.15,
+        "_color": 4294967295,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "9010010": {
     "_symbolType": 1,
@@ -105656,8 +104694,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -105684,8 +104721,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -105773,8 +104809,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -105937,8 +104972,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -105965,8 +104999,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -106054,8 +105087,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -106082,8 +105114,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -106171,8 +105202,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 123,
         "_cellType": 8,
         "_color": 4343993,
@@ -106277,8 +105307,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -106337,8 +105366,7 @@
         "_fillColor": 4343993,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.75,
             "_y": 0.39000000000000007
           },
@@ -106439,8 +105467,7 @@
         },
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 0.7000000000000001
           },
@@ -106473,8 +105500,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -106501,8 +105527,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -106590,8 +105615,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -106618,8 +105642,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -106707,8 +105730,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4344761,
@@ -106735,8 +105757,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -106824,8 +105845,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -106852,8 +105872,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -106941,8 +105960,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -106969,8 +105987,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -107058,8 +106075,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -107086,8 +106102,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -107175,8 +106190,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -107203,8 +106217,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -107292,8 +106305,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -107320,8 +106332,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -107409,8 +106420,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -107437,8 +106447,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -107526,8 +106535,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -107554,8 +106562,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -107643,8 +106650,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 107,
         "_cellType": 2,
         "_color": 4343993,
@@ -107746,8 +106752,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -107774,8 +106779,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -107863,40 +106867,38 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 123,
-        "_cellType": 8,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_fillStyle": 7,
-        "_fillColor": 4294967295,
-        "_width": 0.15,
-        "_offsetX": 0,
-        "_offsetY": 0,
-        "_longAxis": 1.5,
-        "_shortAxis": 1.5,
-        "_angle": 0
-      }
-    ]
+    "_pointCells": [{
+      "_position": 123,
+      "_cellType": 8,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4294967295,
+      "_width": 0.15,
+      "_offsetX": 0,
+      "_offsetY": 0,
+      "_longAxis": 1.5,
+      "_shortAxis": 1.5,
+      "_angle": 0
+    }]
   },
   "9010191": {
     "_symbolType": 1,
@@ -107911,8 +106913,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4344761,
@@ -107939,8 +106940,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -108202,8 +107202,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4344761,
@@ -108230,8 +107229,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -108435,8 +107433,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4344761,
@@ -108463,8 +107460,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -108610,8 +107606,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 4344761,
@@ -108638,8 +107633,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -108727,54 +107721,51 @@
       "_top": 1.32,
       "_bottom": -1.32
     },
-    "_pointCells": [
-      {
-        "_position": 151,
-        "_cellType": 4,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 151,
+      "_cellType": 4,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4343993,
+      "_width": 0.01,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": 0,
+          "_y": 1.32
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.5,
+          "_y": -1.32
         },
-        "_fillStyle": 7,
-        "_fillColor": 4343993,
-        "_width": 0.01,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": 0,
-            "_y": 1.32
-          },
-          {
-            "_x": 1.5,
-            "_y": -1.32
-          },
-          {
-            "_x": -1.5,
-            "_y": -1.32
-          },
-          {
-            "_x": 0,
-            "_y": 1.32
-          }
-        ]
-      }
-    ]
+        {
+          "_x": -1.5,
+          "_y": -1.32
+        },
+        {
+          "_x": 0,
+          "_y": 1.32
+        }
+      ]
+    }]
   },
   "9010230": {
     "_symbolType": 1,
@@ -108789,8 +107780,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -108817,8 +107807,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -108906,8 +107895,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -108934,8 +107922,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -109078,8 +108065,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 151,
         "_cellType": 9,
         "_color": 4343993,
@@ -109106,8 +108092,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -109195,8 +108180,7 @@
       "_top": 1.49,
       "_bottom": -1.51
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 4343993,
@@ -109223,8 +108207,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.49
           },
@@ -109312,8 +108295,7 @@
       "_top": 0.1500000169684786,
       "_bottom": -0.1500000169684786
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 153,
         "_cellType": 9,
         "_color": 65535,
@@ -109340,8 +108322,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.35000000000000003,
             "_y": -0.14999999999999997
           },
@@ -109487,8 +108468,7 @@
       "_top": 0.75,
       "_bottom": -0.75
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -109515,8 +108495,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 0.75
           },
@@ -109726,8 +108705,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 0.75
           },
@@ -109925,8 +108903,7 @@
       "_top": 0.75,
       "_bottom": -0.75
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -109953,8 +108930,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 0.75
           },
@@ -110164,8 +109140,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 0.75
           },
@@ -110363,8 +109338,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -110391,8 +109365,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -110590,8 +109563,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -110618,8 +109590,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -110817,8 +109788,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -110845,8 +109815,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -111044,8 +110013,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -111072,8 +110040,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -111271,8 +110238,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -111299,8 +110265,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -111498,8 +110463,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -111526,8 +110490,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -111725,8 +110688,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -111753,8 +110715,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -111952,8 +110913,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -111980,8 +110940,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -112179,8 +111138,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -112207,8 +111165,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -112406,8 +111363,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -112434,8 +111390,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -112633,8 +111588,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -112661,8 +111615,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -112860,8 +111813,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -112888,8 +111840,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -113087,8 +112038,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -113115,8 +112065,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -113314,8 +112263,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -113342,8 +112290,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -113541,8 +112488,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -113569,8 +112515,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -113768,8 +112713,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -113796,8 +112740,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -113995,8 +112938,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -114023,8 +112965,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -114277,8 +113218,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -114305,8 +113245,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -114559,8 +113498,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -114587,8 +113525,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -114786,8 +113723,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -114814,8 +113750,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -115013,8 +113948,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 176,
         "_cellType": 13,
         "_color": 4343993,
@@ -115206,8 +114140,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -115240,8 +114173,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 4343993,
@@ -115268,8 +114200,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -115467,8 +114398,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -115495,8 +114425,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 1.5
           },
@@ -115694,8 +114623,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -115722,8 +114650,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 1.5
           },
@@ -115921,8 +114848,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -115949,8 +114875,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 1.5
           },
@@ -116148,8 +115073,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -116176,8 +115100,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 1.5
           },
@@ -116375,8 +115298,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -116403,8 +115325,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 1.5
           },
@@ -116602,8 +115523,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -116630,8 +115550,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.5,
             "_y": 1.5
           },
@@ -116829,8 +115748,7 @@
       "_top": 1.49,
       "_bottom": -1.1500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 4,
         "_color": 4343993,
@@ -116857,8 +115775,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 1.49
           },
@@ -117056,8 +115973,7 @@
       "_top": 1.49,
       "_bottom": -1.1500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 4,
         "_color": 4343993,
@@ -117084,8 +116000,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 1.49
           },
@@ -117283,8 +116198,7 @@
       "_top": 1.49,
       "_bottom": -1.1500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 4,
         "_color": 4343993,
@@ -117311,8 +116225,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 1.49
           },
@@ -117510,8 +116423,7 @@
       "_top": 1.49,
       "_bottom": -1.1500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 4,
         "_color": 4343993,
@@ -117538,8 +116450,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 1.49
           },
@@ -117737,8 +116648,7 @@
       "_top": 1.49,
       "_bottom": -1.1500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 4,
         "_color": 4343993,
@@ -117765,8 +116675,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 1.49
           },
@@ -117964,8 +116873,7 @@
       "_top": 1.49,
       "_bottom": -1.1500000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 4,
         "_color": 4343993,
@@ -117992,8 +116900,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 1.49
           },
@@ -118191,8 +117098,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 125,
         "_cellType": 8,
         "_color": 4343993,
@@ -118336,8 +117242,7 @@
         },
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0,
             "_y": 0.45
           },
@@ -118370,58 +117275,55 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 169,
-        "_cellType": 4,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 169,
+      "_cellType": 4,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4343993,
+      "_width": 0.01,
+      "_pointCount": 5,
+      "_points": [{
+          "_x": 0,
+          "_y": 1.5
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": -0.75,
+          "_y": -1.5
         },
-        "_fillStyle": 7,
-        "_fillColor": 4343993,
-        "_width": 0.01,
-        "_pointCount": 5,
-        "_points": [
-          {
-            "_x": 0,
-            "_y": 1.5
-          },
-          {
-            "_x": -0.75,
-            "_y": -1.5
-          },
-          {
-            "_x": 0,
-            "_y": -0.5
-          },
-          {
-            "_x": 0.75,
-            "_y": -1.5
-          },
-          {
-            "_x": 0,
-            "_y": 1.5
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 0,
+          "_y": -0.5
+        },
+        {
+          "_x": 0.75,
+          "_y": -1.5
+        },
+        {
+          "_x": 0,
+          "_y": 1.5
+        }
+      ]
+    }]
   },
   "9050010": {
     "_symbolType": 1,
@@ -118436,8 +117338,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -118464,8 +117365,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -118701,8 +117601,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 154,
         "_cellType": 9,
         "_color": 4343993,
@@ -118729,8 +117628,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -118775,8 +117673,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1,
             "_y": 1
           },
@@ -118859,42 +117756,38 @@
     "_position": 95,
     "_cellsCount": 1,
     "_width": 0.3,
-    "_lineCells": [
-      {
-        "_position": 95,
-        "_cellType": 2,
-        "_width": 0.3,
-        "_color": 230,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
-        },
-        "_offset": 0,
-        "_hasTemplate": 1,
-        "_symbolTemplate": {
-          "_interval": 0.5,
-          "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 3,
-              "_gap": 3
-            }
-          ],
-          "_position": 87
-        },
-        "_cap": 512,
-        "_join": 8192
-      }
-    ]
+    "_lineCells": [{
+      "_position": 95,
+      "_cellType": 2,
+      "_width": 0.3,
+      "_color": 230,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_offset": 0,
+      "_hasTemplate": 1,
+      "_symbolTemplate": {
+        "_interval": 0.5,
+        "_patternSize": 1,
+        "_patternElements": [{
+          "_mark": 3,
+          "_gap": 3
+        }],
+        "_position": 87
+      },
+      "_cap": 512,
+      "_join": 8192
+    }]
   },
   "9050013": {
     "_symbolType": 1,
@@ -118909,8 +117802,7 @@
       "_top": 1.06,
       "_bottom": -1.07
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 116,
         "_cellType": 2,
         "_color": 4343993,
@@ -119073,8 +117965,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 168,
@@ -119101,8 +117992,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -119277,8 +118167,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 136,
         "_cellType": 8,
         "_color": 168,
@@ -119412,8 +118301,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.35000000000000003
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 127,
         "_cellType": 3,
         "_color": 168,
@@ -119438,8 +118326,7 @@
         },
         "_width": 0.1,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.9,
             "_y": 0.35000000000000003
           },
@@ -119478,8 +118365,7 @@
         },
         "_width": 0.1,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.3,
             "_y": 0.35000000000000003
           },
@@ -119508,54 +118394,51 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
-        "_position": 155,
-        "_cellType": 4,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 155,
+      "_cellType": 4,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 7,
+      "_fillColor": 4343993,
+      "_width": 0.01,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": 0,
+          "_y": 1.5
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": -1.25,
+          "_y": -1.5
         },
-        "_fillStyle": 7,
-        "_fillColor": 4343993,
-        "_width": 0.01,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": 0,
-            "_y": 1.5
-          },
-          {
-            "_x": -1.25,
-            "_y": -1.5
-          },
-          {
-            "_x": 1.25,
-            "_y": -1.5
-          },
-          {
-            "_x": 0,
-            "_y": 1.5
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.25,
+          "_y": -1.5
+        },
+        {
+          "_x": 0,
+          "_y": 1.5
+        }
+      ]
+    }]
   },
   "9100010": {
     "_symbolType": 1,
@@ -119570,8 +118453,7 @@
       "_top": 0.48,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 4343993,
@@ -119598,8 +118480,7 @@
         "_fillColor": 4294967295,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.8300000000000001,
             "_y": 0.48
           },
@@ -119687,12 +118568,138 @@
       "_top": 0.39,
       "_bottom": -0.31
     },
-    "_pointCells": [
-      {
-        "_position": 438,
-        "_cellType": 3,
-        "_color": 4343993,
-        "_colorLocked": false,
+    "_pointCells": [{
+      "_position": 438,
+      "_cellType": 3,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_width": 0.1,
+      "_pointCount": 22,
+      "_points": [{
+          "_x": -0.98,
+          "_y": -0.01
+        },
+        {
+          "_x": -0.68,
+          "_y": -0.01
+        },
+        {
+          "_x": -0.63,
+          "_y": 0.39
+        },
+        {
+          "_x": -0.5700000000000001,
+          "_y": -0.31
+        },
+        {
+          "_x": -0.48,
+          "_y": 0.39
+        },
+        {
+          "_x": -0.43,
+          "_y": -0.31
+        },
+        {
+          "_x": -0.33,
+          "_y": 0.39
+        },
+        {
+          "_x": -0.28,
+          "_y": -0.31
+        },
+        {
+          "_x": -0.18,
+          "_y": 0.39
+        },
+        {
+          "_x": -0.13,
+          "_y": -0.31
+        },
+        {
+          "_x": -0.03,
+          "_y": 0.39
+        },
+        {
+          "_x": 0.02,
+          "_y": -0.31
+        },
+        {
+          "_x": 0.12,
+          "_y": 0.39
+        },
+        {
+          "_x": 0.17,
+          "_y": -0.31
+        },
+        {
+          "_x": 0.27,
+          "_y": 0.39
+        },
+        {
+          "_x": 0.32,
+          "_y": -0.31
+        },
+        {
+          "_x": 0.42,
+          "_y": 0.39
+        },
+        {
+          "_x": 0.47000000000000003,
+          "_y": -0.31
+        },
+        {
+          "_x": 0.5700000000000001,
+          "_y": 0.39
+        },
+        {
+          "_x": 0.62,
+          "_y": -0.31
+        },
+        {
+          "_x": 0.7000000000000001,
+          "_y": 0
+        },
+        {
+          "_x": 0.9500000000000001,
+          "_y": 0
+        }
+      ]
+    }]
+  },
+  "10010181": {
+    "_symbolType": 3,
+    "_symbolCode": 10010181,
+    "_symbolName": "实心辅助面",
+    "_drawMode": 13,
+    "_position": 62,
+    "_fillCells": [{
+      "_position": 62,
+      "_cellType": 0,
+      "_color": 168,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 58,
+        "_cellType": 0,
+        "_width": 0.1,
+        "_color": 168,
         "_lineStyle": {
           "_color": -1,
           "_width": 1,
@@ -119706,143 +118713,10 @@
           "_lineCap": "butt",
           "_lineJoin": "round"
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
-        },
-        "_width": 0.1,
-        "_pointCount": 22,
-        "_points": [
-          {
-            "_x": -0.98,
-            "_y": -0.01
-          },
-          {
-            "_x": -0.68,
-            "_y": -0.01
-          },
-          {
-            "_x": -0.63,
-            "_y": 0.39
-          },
-          {
-            "_x": -0.5700000000000001,
-            "_y": -0.31
-          },
-          {
-            "_x": -0.48,
-            "_y": 0.39
-          },
-          {
-            "_x": -0.43,
-            "_y": -0.31
-          },
-          {
-            "_x": -0.33,
-            "_y": 0.39
-          },
-          {
-            "_x": -0.28,
-            "_y": -0.31
-          },
-          {
-            "_x": -0.18,
-            "_y": 0.39
-          },
-          {
-            "_x": -0.13,
-            "_y": -0.31
-          },
-          {
-            "_x": -0.03,
-            "_y": 0.39
-          },
-          {
-            "_x": 0.02,
-            "_y": -0.31
-          },
-          {
-            "_x": 0.12,
-            "_y": 0.39
-          },
-          {
-            "_x": 0.17,
-            "_y": -0.31
-          },
-          {
-            "_x": 0.27,
-            "_y": 0.39
-          },
-          {
-            "_x": 0.32,
-            "_y": -0.31
-          },
-          {
-            "_x": 0.42,
-            "_y": 0.39
-          },
-          {
-            "_x": 0.47000000000000003,
-            "_y": -0.31
-          },
-          {
-            "_x": 0.5700000000000001,
-            "_y": 0.39
-          },
-          {
-            "_x": 0.62,
-            "_y": -0.31
-          },
-          {
-            "_x": 0.7000000000000001,
-            "_y": 0
-          },
-          {
-            "_x": 0.9500000000000001,
-            "_y": 0
-          }
-        ]
-      }
-    ]
-  },
-  "10010181": {
-    "_symbolType": 3,
-    "_symbolCode": 10010181,
-    "_symbolName": "实心辅助面",
-    "_drawMode": 13,
-    "_position": 62,
-    "_fillCells": [
-      {
-        "_position": 62,
-        "_cellType": 0,
-        "_color": 168,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 58,
-            "_cellType": 0,
-            "_width": 0.1,
-            "_color": 168,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "20201400": {
     "_symbolType": 1,
@@ -119857,8 +118731,7 @@
       "_top": 1.2,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -120349,8 +119222,7 @@
       "_top": 0.37,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -120841,8 +119713,7 @@
       "_top": 0.37,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 4343993,
@@ -121217,8 +120088,7 @@
       "_top": 0.37,
       "_bottom": -0.37
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 4343993,
@@ -121593,8 +120463,7 @@
       "_top": 0.47000000000000003,
       "_bottom": -0.42000000000000004
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 8,
         "_color": 4343993,
@@ -121804,8 +120673,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": -0.2
           },
@@ -121966,8 +120834,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.45,
             "_y": -0.34
           },
@@ -122012,8 +120879,7 @@
         "_fillColor": 0,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.13,
             "_y": 0.2
           },
@@ -122046,8 +120912,7 @@
       "_top": 1.49,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 4343993,
@@ -122074,8 +120939,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 1.1999999999999997,
             "_y": -1.2100000000000002
           },
@@ -122120,8 +120984,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.55,
             "_y": 0.9500000000000001
           },
@@ -122166,8 +121029,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.95,
             "_y": 0.9500000000000001
           },
@@ -122212,8 +121074,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.43,
             "_y": 1.49
           },
@@ -122304,8 +121165,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 8,
         "_color": 255,
@@ -122407,8 +121267,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 175,
         "_cellType": 13,
         "_color": 4343993,
@@ -122490,8 +121349,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -122524,8 +121382,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 175,
         "_cellType": 13,
         "_color": 4343993,
@@ -122607,8 +121464,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -122641,8 +121497,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 9,
         "_color": 4343993,
@@ -122669,8 +121524,7 @@
         "_fillColor": 4294967295,
         "_width": 0.15,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -122761,8 +121615,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 173,
         "_cellType": 13,
         "_color": 255,
@@ -122857,37 +121710,33 @@
     "_symbolName": "通信-面设备",
     "_drawMode": 13,
     "_position": 63,
-    "_fillCells": [
-      {
-        "_position": 63,
+    "_fillCells": [{
+      "_position": 63,
+      "_cellType": 0,
+      "_color": 0,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 59,
         "_cellType": 0,
-        "_color": 0,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 59,
-            "_cellType": 0,
-            "_width": 0.12,
-            "_color": 255,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 0.12,
+        "_color": 255,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "51140001": {
     "_symbolType": 3,
@@ -122895,37 +121744,33 @@
     "_symbolName": "通信-配线模块",
     "_drawMode": 13,
     "_position": 65,
-    "_fillCells": [
-      {
-        "_position": 65,
+    "_fillCells": [{
+      "_position": 65,
+      "_cellType": 0,
+      "_color": 4294967295,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 61,
         "_cellType": 0,
-        "_color": 4294967295,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 61,
-            "_cellType": 0,
-            "_width": 0.12,
-            "_color": 255,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_width": 0.12,
+        "_color": 255,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "51141001": {
     "_symbolType": 3,
@@ -122933,37 +121778,33 @@
     "_symbolName": "通信-站内设备",
     "_drawMode": 13,
     "_position": 65,
-    "_fillCells": [
-      {
-        "_position": 65,
+    "_fillCells": [{
+      "_position": 65,
+      "_cellType": 0,
+      "_color": 4294967295,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 61,
         "_cellType": 0,
-        "_color": 4294967295,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 61,
-            "_cellType": 0,
-            "_width": 0.12,
-            "_color": 255,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 7
-      }
-    ]
+        "_width": 0.12,
+        "_color": 255,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 7
+    }]
   },
   "51165001": {
     "_symbolType": 3,
@@ -122971,37 +121812,33 @@
     "_symbolName": "通信-机框",
     "_drawMode": 13,
     "_position": 61,
-    "_fillCells": [
-      {
-        "_position": 61,
+    "_fillCells": [{
+      "_position": 61,
+      "_cellType": 0,
+      "_color": 0,
+      "_cellsCount": 1,
+      "_lineCells": [{
+        "_position": 57,
         "_cellType": 0,
-        "_color": 0,
-        "_cellsCount": 1,
-        "_lineCells": [
-          {
-            "_position": 57,
-            "_cellType": 0,
-            "_width": 0.5,
-            "_color": 255,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_simpleLineStyle": 0
-          }
-        ],
-        "_simpleFillStyle": 6
-      }
-    ]
+        "_width": 0.5,
+        "_color": 255,
+        "_lineStyle": {
+          "_color": -1,
+          "_width": 1,
+          "_normalStyle": 0,
+          "_useExtend": false,
+          "_extendPenStyle": 0,
+          "_brushStyle": 0,
+          "_hatched": 0,
+          "_dashCount": 0,
+          "_dashStyle": 0,
+          "_lineCap": "butt",
+          "_lineJoin": "round"
+        },
+        "_simpleLineStyle": 0
+      }],
+      "_simpleFillStyle": 6
+    }]
   },
   "52010010": {
     "_symbolType": 1,
@@ -123016,8 +121853,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 158,
         "_cellType": 9,
         "_color": 168,
@@ -123044,8 +121880,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123133,8 +121968,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 168,
@@ -123161,8 +121995,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123250,8 +122083,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 161,
         "_cellType": 9,
         "_color": 168,
@@ -123278,8 +122110,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123367,8 +122198,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 168,
@@ -123395,8 +122225,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123484,8 +122313,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 168,
@@ -123512,8 +122340,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123601,8 +122428,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 168,
@@ -123629,8 +122455,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123718,8 +122543,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 157,
         "_cellType": 9,
         "_color": 168,
@@ -123746,8 +122570,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123835,8 +122658,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 160,
         "_cellType": 9,
         "_color": 168,
@@ -123863,8 +122685,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -123952,8 +122773,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 159,
         "_cellType": 9,
         "_color": 168,
@@ -123980,8 +122800,7 @@
         "_fillColor": 16777215,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.45,
             "_y": 1.45
           },
@@ -124069,54 +122888,51 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
-        "_position": 164,
-        "_cellType": 9,
-        "_color": 168,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 164,
+      "_cellType": 9,
+      "_color": 168,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 16777215,
+      "_width": 0.1,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.45,
+          "_y": 1.45
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.45,
+          "_y": 1.45
         },
-        "_fillStyle": 6,
-        "_fillColor": 16777215,
-        "_width": 0.1,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.45,
-            "_y": 1.45
-          },
-          {
-            "_x": 1.45,
-            "_y": 1.45
-          },
-          {
-            "_x": 1.45,
-            "_y": -1.45
-          },
-          {
-            "_x": -1.45,
-            "_y": -1.45
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.45,
+          "_y": -1.45
+        },
+        {
+          "_x": -1.45,
+          "_y": -1.45
+        }
+      ]
+    }]
   },
   "70200201": {
     "_symbolType": 2,
@@ -124126,8 +122942,7 @@
     "_position": 390,
     "_cellsCount": 6,
     "_width": 2,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 72,
         "_cellType": 2,
         "_width": 0.05,
@@ -124194,37 +123009,35 @@
         "_endType": 3,
         "_directionType": 3,
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 185,
-            "_cellType": 2,
-            "_color": 230,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
-            },
-            "_startX": 0,
-            "_startY": 1,
-            "_endX": 0,
-            "_endY": -1,
-            "_width": 0.1
-          }
-        ]
+        "_pointCells": [{
+          "_position": 185,
+          "_cellType": 2,
+          "_color": 230,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_startX": 0,
+          "_startY": 1,
+          "_endX": 0,
+          "_endY": -1,
+          "_width": 0.1
+        }]
       },
       {
         "_position": 221,
@@ -124295,8 +123108,7 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 2,
-          "_patternElements": [
-            {
+          "_patternElements": [{
               "_mark": 0,
               "_gap": 2
             },
@@ -124308,40 +123120,38 @@
           "_position": 313
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 390,
-            "_cellType": 7,
-            "_color": 230,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
-            },
-            "_width": 0.1,
-            "_angle": 90,
-            "_startAngle": 337,
-            "_endAngle": 225,
-            "_longAxis": 0.55,
-            "_shortAxis": 0.36666666666666675,
-            "_offsetX": 0,
-            "_offsetY": 0
-          }
-        ]
+        "_pointCells": [{
+          "_position": 390,
+          "_cellType": 7,
+          "_color": 230,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_width": 0.1,
+          "_angle": 90,
+          "_startAngle": 337,
+          "_endAngle": 225,
+          "_longAxis": 0.55,
+          "_shortAxis": 0.36666666666666675,
+          "_offsetX": 0,
+          "_offsetY": 0
+        }]
       }
     ]
   },
@@ -124353,8 +123163,7 @@
     "_position": 458,
     "_cellsCount": 6,
     "_width": 1.1,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 72,
         "_cellType": 2,
         "_width": 0.1,
@@ -124469,8 +123278,7 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 2,
-          "_patternElements": [
-            {
+          "_patternElements": [{
               "_mark": 0,
               "_gap": 5
             },
@@ -124482,40 +123290,38 @@
           "_position": 236
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 313,
-            "_cellType": 7,
-            "_color": 230,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
-            },
-            "_width": 0.1,
-            "_angle": 90,
-            "_startAngle": 337,
-            "_endAngle": 225,
-            "_longAxis": 0.55,
-            "_shortAxis": 0.36666666666666675,
-            "_offsetX": 0,
-            "_offsetY": 0
-          }
-        ]
+        "_pointCells": [{
+          "_position": 313,
+          "_cellType": 7,
+          "_color": 230,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_width": 0.1,
+          "_angle": 90,
+          "_startAngle": 337,
+          "_endAngle": 225,
+          "_longAxis": 0.55,
+          "_shortAxis": 0.36666666666666675,
+          "_offsetX": 0,
+          "_offsetY": 0
+        }]
       },
       {
         "_position": 458,
@@ -124540,63 +123346,58 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 8
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 8
+          }],
           "_position": 361
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 458,
-            "_cellType": 9,
-            "_color": 230,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
+        "_pointCells": [{
+          "_position": 458,
+          "_cellType": 9,
+          "_color": 230,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_fillStyle": 7,
+          "_fillColor": 230,
+          "_width": 0.1,
+          "_pointCount": 4,
+          "_points": [{
+              "_x": 0.30000000000000016,
+              "_y": 1
             },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
+            {
+              "_x": 0.2999999999999998,
+              "_y": -1
             },
-            "_fillStyle": 7,
-            "_fillColor": 230,
-            "_width": 0.1,
-            "_pointCount": 4,
-            "_points": [
-              {
-                "_x": 0.30000000000000016,
-                "_y": 1
-              },
-              {
-                "_x": 0.2999999999999998,
-                "_y": -1
-              },
-              {
-                "_x": -0.30000000000000016,
-                "_y": -1
-              },
-              {
-                "_x": -0.2999999999999998,
-                "_y": 1
-              }
-            ]
-          }
-        ]
+            {
+              "_x": -0.30000000000000016,
+              "_y": -1
+            },
+            {
+              "_x": -0.2999999999999998,
+              "_y": 1
+            }
+          ]
+        }]
       }
     ]
   },
@@ -124608,8 +123409,7 @@
     "_position": 389,
     "_cellsCount": 4,
     "_width": 2,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 70,
         "_cellType": 2,
         "_width": 0.12,
@@ -124678,17 +123478,14 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 11
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 11
+          }],
           "_position": 154
         },
         "_pointCellsCount": 2,
-        "_pointCells": [
-          {
+        "_pointCells": [{
             "_position": 207,
             "_cellType": 2,
             "_color": 230,
@@ -124771,8 +123568,7 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 2,
-          "_patternElements": [
-            {
+          "_patternElements": [{
               "_mark": 0,
               "_gap": 6
             },
@@ -124784,40 +123580,38 @@
           "_position": 312
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 389,
-            "_cellType": 7,
-            "_color": 230,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
-            },
-            "_width": 0.1,
-            "_angle": 90,
-            "_startAngle": 337,
-            "_endAngle": 225,
-            "_longAxis": 0.55,
-            "_shortAxis": 0.36666666666666675,
-            "_offsetX": 0,
-            "_offsetY": 0
-          }
-        ]
+        "_pointCells": [{
+          "_position": 389,
+          "_cellType": 7,
+          "_color": 230,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_width": 0.1,
+          "_angle": 90,
+          "_startAngle": 337,
+          "_endAngle": 225,
+          "_longAxis": 0.55,
+          "_shortAxis": 0.36666666666666675,
+          "_offsetX": 0,
+          "_offsetY": 0
+        }]
       }
     ]
   },
@@ -124829,8 +123623,7 @@
     "_position": 362,
     "_cellsCount": 4,
     "_width": 1.5,
-    "_lineCells": [
-      {
+    "_lineCells": [{
         "_position": 72,
         "_cellType": 2,
         "_width": 0.2,
@@ -124899,57 +123692,52 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 1,
-          "_patternElements": [
-            {
-              "_mark": 1,
-              "_gap": 9
-            }
-          ],
+          "_patternElements": [{
+            "_mark": 1,
+            "_gap": 9
+          }],
           "_position": 156
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 229,
-            "_cellType": 3,
-            "_color": 230,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
+        "_pointCells": [{
+          "_position": 229,
+          "_cellType": 3,
+          "_color": 230,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_width": 0.1,
+          "_pointCount": 3,
+          "_points": [{
+              "_x": -1.5,
+              "_y": 0.6428571428571426
             },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
+            {
+              "_x": 0,
+              "_y": 0
             },
-            "_width": 0.1,
-            "_pointCount": 3,
-            "_points": [
-              {
-                "_x": -1.5,
-                "_y": 0.6428571428571426
-              },
-              {
-                "_x": 0,
-                "_y": 0
-              },
-              {
-                "_x": -1.5,
-                "_y": -0.6428571428571426
-              }
-            ]
-          }
-        ]
+            {
+              "_x": -1.5,
+              "_y": -0.6428571428571426
+            }
+          ]
+        }]
       },
       {
         "_position": 362,
@@ -124974,8 +123762,7 @@
         "_symbolTemplate": {
           "_interval": 0.5,
           "_patternSize": 2,
-          "_patternElements": [
-            {
+          "_patternElements": [{
               "_mark": 0,
               "_gap": 4
             },
@@ -124987,40 +123774,38 @@
           "_position": 285
         },
         "_pointCellsCount": 1,
-        "_pointCells": [
-          {
-            "_position": 362,
-            "_cellType": 7,
-            "_color": 230,
-            "_colorLocked": false,
-            "_lineStyle": {
-              "_color": -1,
-              "_width": 1,
-              "_normalStyle": 0,
-              "_useExtend": false,
-              "_extendPenStyle": 0,
-              "_brushStyle": 0,
-              "_hatched": 0,
-              "_dashCount": 0,
-              "_dashStyle": 0,
-              "_lineCap": "butt",
-              "_lineJoin": "round"
-            },
-            "_brushStyle": {
-              "_color": -1,
-              "_style": 0,
-              "_hatched": 0
-            },
-            "_width": 0.1,
-            "_angle": 90,
-            "_startAngle": 337,
-            "_endAngle": 225,
-            "_longAxis": 0.55,
-            "_shortAxis": 0.36666666666666675,
-            "_offsetX": 0,
-            "_offsetY": 0
-          }
-        ]
+        "_pointCells": [{
+          "_position": 362,
+          "_cellType": 7,
+          "_color": 230,
+          "_colorLocked": false,
+          "_lineStyle": {
+            "_color": -1,
+            "_width": 1,
+            "_normalStyle": 0,
+            "_useExtend": false,
+            "_extendPenStyle": 0,
+            "_brushStyle": 0,
+            "_hatched": 0,
+            "_dashCount": 0,
+            "_dashStyle": 0,
+            "_lineCap": "butt",
+            "_lineJoin": "round"
+          },
+          "_brushStyle": {
+            "_color": -1,
+            "_style": 0,
+            "_hatched": 0
+          },
+          "_width": 0.1,
+          "_angle": 90,
+          "_startAngle": 337,
+          "_endAngle": 225,
+          "_longAxis": 0.55,
+          "_shortAxis": 0.36666666666666675,
+          "_offsetX": 0,
+          "_offsetY": 0
+        }]
       }
     ]
   },
@@ -125037,8 +123822,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 113,
         "_cellType": 2,
         "_color": 255,
@@ -125256,8 +124040,7 @@
       "_top": 1.5,
       "_bottom": -1.5
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 623,
         "_cellType": 5,
         "_color": 4343993,
@@ -125282,8 +124065,7 @@
         },
         "_width": 0.1,
         "_pointCount": 34,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.2,
             "_y": -0.25
           },
@@ -125448,8 +124230,7 @@
         "_fillColor": 0,
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.5,
             "_y": 1.5
           },
@@ -125482,54 +124263,51 @@
       "_top": 1.3,
       "_bottom": -1.3
     },
-    "_pointCells": [
-      {
-        "_position": 153,
-        "_cellType": 9,
-        "_color": 4343993,
-        "_colorLocked": false,
-        "_lineStyle": {
-          "_color": -1,
-          "_width": 1,
-          "_normalStyle": 0,
-          "_useExtend": false,
-          "_extendPenStyle": 0,
-          "_brushStyle": 0,
-          "_hatched": 0,
-          "_dashCount": 0,
-          "_dashStyle": 0,
-          "_lineCap": "butt",
-          "_lineJoin": "round"
+    "_pointCells": [{
+      "_position": 153,
+      "_cellType": 9,
+      "_color": 4343993,
+      "_colorLocked": false,
+      "_lineStyle": {
+        "_color": -1,
+        "_width": 1,
+        "_normalStyle": 0,
+        "_useExtend": false,
+        "_extendPenStyle": 0,
+        "_brushStyle": 0,
+        "_hatched": 0,
+        "_dashCount": 0,
+        "_dashStyle": 0,
+        "_lineCap": "butt",
+        "_lineJoin": "round"
+      },
+      "_brushStyle": {
+        "_color": -1,
+        "_style": 0,
+        "_hatched": 0
+      },
+      "_fillStyle": 6,
+      "_fillColor": 16777215,
+      "_width": 0.3,
+      "_pointCount": 4,
+      "_points": [{
+          "_x": -1.3,
+          "_y": 1.3
         },
-        "_brushStyle": {
-          "_color": -1,
-          "_style": 0,
-          "_hatched": 0
+        {
+          "_x": 1.3,
+          "_y": 1.3
         },
-        "_fillStyle": 6,
-        "_fillColor": 16777215,
-        "_width": 0.3,
-        "_pointCount": 4,
-        "_points": [
-          {
-            "_x": -1.3,
-            "_y": 1.3
-          },
-          {
-            "_x": 1.3,
-            "_y": 1.3
-          },
-          {
-            "_x": 1.3,
-            "_y": -1.3
-          },
-          {
-            "_x": -1.3,
-            "_y": -1.3
-          }
-        ]
-      }
-    ]
+        {
+          "_x": 1.3,
+          "_y": -1.3
+        },
+        {
+          "_x": -1.3,
+          "_y": -1.3
+        }
+      ]
+    }]
   },
   "82030030": {
     "_symbolType": 1,
@@ -125544,8 +124322,7 @@
       "_top": 0.61000002908882,
       "_bottom": -0.60000002908882
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 137,
         "_cellType": 8,
         "_color": 16763904,
@@ -125792,8 +124569,7 @@
       "_top": 0.8500000412091616,
       "_bottom": -0.8500000412091615
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 129,
         "_cellType": 8,
         "_color": 6710989,
@@ -125905,8 +124681,7 @@
         },
         "_width": 0.1,
         "_pointCount": 13,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.1,
             "_y": -0.4
           },
@@ -125985,8 +124760,7 @@
         },
         "_width": 0.1,
         "_pointCount": 2,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.5,
             "_y": 0
           },
@@ -126021,8 +124795,7 @@
         },
         "_width": 0.1,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.55,
             "_y": 0
           },
@@ -126055,8 +124828,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.25
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 106,
         "_cellType": 2,
         "_color": 4343993,
@@ -126431,8 +125203,7 @@
         "_fillColor": 0,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": 0.11
           },
@@ -126549,8 +125320,7 @@
       "_top": 0.45,
       "_bottom": -0.25
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 106,
         "_cellType": 2,
         "_color": 4343993,
@@ -126925,8 +125695,7 @@
         "_fillColor": 0,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": 0.11
           },
@@ -127043,8 +125812,7 @@
       "_top": 0.15,
       "_bottom": -0.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -127219,8 +125987,7 @@
         "_fillColor": 0,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.23,
             "_y": 0.05
           },
@@ -127717,8 +126484,7 @@
       "_top": 0.15,
       "_bottom": -0.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 115,
         "_cellType": 2,
         "_color": 4343993,
@@ -127893,8 +126659,7 @@
         "_fillColor": 0,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.23,
             "_y": 0.05
           },
@@ -128391,8 +127156,7 @@
       "_top": 0.15,
       "_bottom": -0.36
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -128567,8 +127331,7 @@
         "_fillColor": 0,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.23,
             "_y": 0.05
           },
@@ -129065,8 +127828,7 @@
       "_top": 0.72,
       "_bottom": -0.08
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -129371,8 +128133,7 @@
       "_top": 0.72,
       "_bottom": -0.08
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 4343993,
@@ -129677,8 +128438,7 @@
       "_top": 0.72,
       "_bottom": -0.08
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 119,
         "_cellType": 2,
         "_color": 4343993,
@@ -129983,8 +128743,7 @@
       "_top": 0.1,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 169,
         "_cellType": 9,
         "_color": 4343993,
@@ -130011,8 +128770,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": 0.1
           },
@@ -130306,8 +129064,7 @@
       "_top": 0.1,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 169,
         "_cellType": 9,
         "_color": 4343993,
@@ -130334,8 +129091,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": 0.1
           },
@@ -130629,8 +129385,7 @@
       "_top": 0.33,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 167,
         "_cellType": 9,
         "_color": 4343993,
@@ -130657,8 +129412,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": 0.1
           },
@@ -130964,8 +129718,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.14,
             "_y": 0.28
           },
@@ -131126,8 +129879,7 @@
         "_fillColor": 16777215,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.09999999999999999,
             "_y": 0.19999999999999998
           },
@@ -131218,8 +129970,7 @@
       "_top": 0.33,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 165,
         "_cellType": 9,
         "_color": 4343993,
@@ -131246,8 +129997,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": 0.1
           },
@@ -131553,8 +130303,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.14,
             "_y": 0.28
           },
@@ -131715,8 +130464,7 @@
         "_fillColor": 16777215,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.09999999999999999,
             "_y": 0.19999999999999998
           },
@@ -131807,8 +130555,7 @@
       "_top": 0.33,
       "_bottom": -0.1
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 172,
         "_cellType": 9,
         "_color": 4343993,
@@ -131835,8 +130582,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.25,
             "_y": 0.1
           },
@@ -132200,8 +130946,7 @@
         "_fillColor": 4343993,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.14,
             "_y": 0.28
           },
@@ -132362,8 +131107,7 @@
         "_fillColor": 16777215,
         "_width": 0.01,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.09999999999999999,
             "_y": 0.19999999999999998
           },
@@ -132454,8 +131198,7 @@
       "_top": 0.10000001066590082,
       "_bottom": -0.10000001066590082
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 120,
         "_cellType": 2,
         "_color": 4343993,
@@ -132540,8 +131283,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.22,
             "_y": -0.09999999999999999
           },
@@ -132806,8 +131548,7 @@
       "_top": 0.10000001066590082,
       "_bottom": -0.10000001066590082
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 124,
         "_cellType": 2,
         "_color": 4343993,
@@ -132863,8 +131604,7 @@
         "_fillColor": 4343993,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.22,
             "_y": -0.09999999999999999
           },
@@ -133158,8 +131898,7 @@
       "_top": 0.2,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 2,
         "_color": 4343993,
@@ -133554,8 +132293,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 126,
         "_cellType": 2,
         "_color": 4343993,
@@ -133950,8 +132688,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 126,
         "_cellType": 2,
         "_color": 4343993,
@@ -134346,8 +133083,7 @@
       "_top": 0.35000000000000003,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 128,
         "_cellType": 2,
         "_color": 4343993,
@@ -134742,8 +133478,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 120,
         "_cellType": 2,
         "_color": 168,
@@ -134797,8 +133532,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.2,
             "_y": 0
           },
@@ -134837,8 +133571,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.1,
             "_y": 0.3
           },
@@ -134896,8 +133629,7 @@
       "_top": 0.3,
       "_bottom": -0.3
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 120,
         "_cellType": 2,
         "_color": 168,
@@ -134951,8 +133683,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.2,
             "_y": 0
           },
@@ -134991,8 +133722,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.11,
             "_y": -0.3
           },
@@ -135050,8 +133780,7 @@
       "_top": 0.19,
       "_bottom": -0.19
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 168,
@@ -135105,8 +133834,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": 0.1
           },
@@ -135222,8 +133950,7 @@
       "_top": 0.19,
       "_bottom": -0.19
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 168,
@@ -135277,8 +134004,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.15,
             "_y": 0.1
           },
@@ -135317,8 +134043,7 @@
         },
         "_width": 0.02,
         "_pointCount": 3,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25,
             "_y": 0.1
           },
@@ -135434,8 +134159,7 @@
       "_top": 0.2500000121203417,
       "_bottom": -0.2500000121203417
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 135,
         "_cellType": 7,
         "_color": 4343993,
@@ -135569,8 +134293,7 @@
       "_top": 0.2,
       "_bottom": -0.2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 121,
         "_cellType": 8,
         "_color": 0,
@@ -135678,8 +134401,7 @@
       "_top": 0.4000000000000001,
       "_bottom": -0.4000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 155,
         "_cellType": 9,
         "_color": 4343993,
@@ -135706,8 +134428,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25000000000000006,
             "_y": 0.39999999999999997
           },
@@ -135750,8 +134471,7 @@
         },
         "_width": 0.02,
         "_pointCount": 6,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.35000000000000003,
             "_y": 0
           },
@@ -135792,8 +134512,7 @@
       "_top": 0.4000000000000001,
       "_bottom": -0.4000000000000001
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 156,
         "_cellType": 9,
         "_color": 4343993,
@@ -135820,8 +134539,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.25000000000000006,
             "_y": 0.39999999999999997
           },
@@ -135912,8 +134630,7 @@
       "_top": 0,
       "_bottom": -2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4409782,
@@ -136056,8 +134773,7 @@
         "_fillColor": 14504,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.4,
             "_y": -0.5
           },
@@ -136189,8 +134905,7 @@
         "_fillColor": 14504,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.2,
             "_y": -1.25
           },
@@ -136379,8 +135094,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.48,
             "_y": -0.49999999999999994
           },
@@ -136454,8 +135168,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4000000000000001,
             "_y": -0.65
           },
@@ -136604,8 +135317,7 @@
       "_top": 0,
       "_bottom": -2
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 109,
         "_cellType": 2,
         "_color": 4409782,
@@ -136748,8 +135460,7 @@
         "_fillColor": 14504,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.4,
             "_y": -0.5
           },
@@ -136881,8 +135592,7 @@
         "_fillColor": 14504,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -0.2,
             "_y": -1.25
           },
@@ -137042,8 +135752,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.48,
             "_y": -0.49999999999999994
           },
@@ -137117,8 +135826,7 @@
         "_fillColor": 16777215,
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": -1.4000000000000001,
             "_y": -0.65
           },
@@ -137277,8 +135985,7 @@
         },
         "_width": 0.02,
         "_pointCount": 4,
-        "_points": [
-          {
+        "_points": [{
             "_x": 0.7000000000000001,
             "_y": -1.6300000000000001
           },
@@ -137311,8 +136018,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 133,
         "_cellType": 8,
         "_color": 255,
@@ -137429,8 +136135,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 117,
         "_cellType": 2,
         "_color": 255,
@@ -137837,8 +136542,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 131,
         "_cellType": 8,
         "_color": 255,
@@ -137975,8 +136679,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 147,
         "_cellType": 12,
         "_color": 255,
@@ -138113,8 +136816,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 175,
         "_cellType": 13,
         "_color": 255,
@@ -138251,8 +136953,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 168,
         "_cellType": 13,
         "_color": 255,
@@ -138354,8 +137055,7 @@
       "_top": 1.45,
       "_bottom": -1.45
     },
-    "_pointCells": [
-      {
+    "_pointCells": [{
         "_position": 176,
         "_cellType": 13,
         "_color": 255,
@@ -138445,3 +137145,5 @@
     ]
   }
 }
+
+export default elesymbol
